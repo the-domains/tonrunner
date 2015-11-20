@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Quotes and funnies all about running
-datePublished: '2015-11-20T10:53:15.625Z'
-dateModified: '2015-11-20T10:52:53.893Z'
+datePublished: '2015-11-20T14:28:53.086Z'
+dateModified: '2015-11-20T14:28:49.509Z'
 title: Running Quotes
 author: []
 sourcePath: _posts/2015-11-20-running-quotes.md
