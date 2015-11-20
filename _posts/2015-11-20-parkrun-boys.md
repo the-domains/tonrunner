@@ -7,22 +7,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-20T17:10:21.046Z'
-dateModified: '2015-11-20T16:59:08.388Z'
+datePublished: '2015-11-20T17:21:42.380Z'
+dateModified: '2015-11-20T17:21:37.767Z'
 title: parkrun boys
 author: []
+sourcePath: _posts/2015-11-20-parkrun-boys.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-20-parkrun-boys.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![parkrun boys](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f6cc31b-8ce2-4ba5-a56b-7472f06d7fe7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f6cc31b-8ce2-4ba5-a56b-7472f06d7fe7.jpg)
 
 # parkrun boys
+
+James, Ollie & James
