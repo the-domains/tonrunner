@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: Quotes and funnies all about running
-datePublished: '2015-11-20T15:00:00.920Z'
-dateModified: '2015-11-20T14:59:57.020Z'
+description: ''
+datePublished: '2015-11-20T16:39:30.378Z'
+dateModified: '2015-11-20T16:39:27.960Z'
 title: Running Quotes
 author: []
 sourcePath: _posts/2015-11-20-running-quotes.md
@@ -18,9 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: running-quotes/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7cde9f0-5d39-46a5-b07c-5e4c4bc9740d.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54698861-9cb9-49aa-82a4-a8c1ad03f2da.jpg)
