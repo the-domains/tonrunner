@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2015-11-20T16:17:01.199Z'
-dateModified: '2015-11-20T16:16:46.350Z'
+description: my biog
+datePublished: '2015-11-20T16:29:48.451Z'
+dateModified: '2015-11-20T16:29:36.314Z'
 title: Anthony Lester
 author: []
+sourcePath: _posts/2015-11-20-anthony-lester.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-20-anthony-lester.md
-published: true
+url: anthony-lester/index.html
 _context: 'http://schema.org'
 _type: Article
 
