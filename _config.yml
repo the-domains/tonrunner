@@ -23,7 +23,7 @@ color:
     - '#C09850'
     - '#C8B060'
   brandStrength: 0.8125
-  lightness: 0.771396
-  saturation: 0.748873
-  rhythmicContrast: 0.707207
+  lightness: 0.9375
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
