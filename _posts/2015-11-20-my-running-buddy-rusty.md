@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-20T15:20:41.122Z'
-dateModified: '2015-11-20T15:20:31.938Z'
+datePublished: '2015-11-20T17:32:46.691Z'
+dateModified: '2015-11-20T17:32:43.269Z'
 title: "'Rusty'"
 author: []
 sourcePath: _posts/2015-11-20-my-running-buddy-rusty.md
@@ -18,7 +19,6 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: my-running-buddy-rusty/index.html
 _context: 'http://schema.org'
 _type: Article
 
