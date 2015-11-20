@@ -17,8 +17,8 @@ keywords:
   - foam
   - physiotherapist
 description: 'Six Physio, reviews the most common injuries suffered in triathlon and where possible how to prevent them. '
-datePublished: '2015-11-20T17:39:18.611Z'
-dateModified: '2015-11-20T17:39:12.250Z'
+datePublished: '2015-11-20T17:47:28.757Z'
+dateModified: '2015-11-20T17:47:24.953Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Common injuries from tri and how to prevent them | Castle Triathlon Series</h1><p>Our physio partner, Six Physio, reviews the most common injuries suffered in triathlon and where possible how to prevent them. "Runner's knee" Runners hit the ground with anything between 5 and 9 times their body weight on each stride.</p><img src="http://www.castletriathlonseries.co.uk/wp-content/uploads/2015/11/Chantilly_SUN-770.jpg" /></article>
+<article style=""><h1>Common injuries from tri and how to prevent them</h1><p>Our physio partner, Six Physio, reviews the most common injuries suffered in triathlon and where possible how to prevent them. "Runner's knee" Runners hit the ground with anything between 5 and 9 times their body weight on each stride.</p><img src="http://www.castletriathlonseries.co.uk/wp-content/uploads/2015/11/Chantilly_SUN-770.jpg" /></article>
