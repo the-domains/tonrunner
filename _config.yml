@@ -1,29 +1,18 @@
-name: TonRunner
-favicon: null
-layout_spectrum: 0.53047
-typography_spectrum: 0.45358
-title: 'Swim Bike Run -Tonbridge, Kent, UK'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0
-  lightness: 0.0625
-  saturation: 0
-  rhythmicContrast: 0.25
+    - '#C8C8B8'
+    - '#200810'
+    - '#C0B088'
+    - '#C09850'
+    - '#C8B060'
+  brandStrength: 0.273648
+  lightness: 0.771396
+  rhythmicContrast: 0.707207
+  saturation: 0.748873
+cta: {}
+layout_spectrum: 0.942567
+name: TonRunner
+opengraph: {}
 purpose: []
+typography_spectrum: 0.45358
