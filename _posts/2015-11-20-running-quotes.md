@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-20T16:39:30.378Z'
-dateModified: '2015-11-20T16:39:27.960Z'
+datePublished: '2015-11-20T16:42:25.586Z'
+dateModified: '2015-11-20T16:42:20.234Z'
 title: Running Quotes
 author: []
 sourcePath: _posts/2015-11-20-running-quotes.md
