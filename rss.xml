@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Swim Bike Run -Tonbridge, Kent, UK]]></title>
-        <description><![CDATA[Swim Bike Run -Tonbridge, Kent, UK]]></description>
+        <title><![CDATA[Swim Bike Run - Tonbridge, Kent, UK]]></title>
+        <description><![CDATA[Swim Bike Run - Tonbridge, Kent, UK]]></description>
         <link>https://thegrid.ai/tonrunner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 17:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 18:18:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tonrunner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Anthony Lester]]></title>
@@ -18,14 +18,14 @@
             <description><![CDATA[<article><h1>Common injuries from tri and how to prevent them</h1><p>Our physio partner, Six Physio, reviews the most common injuries suffered in triathlon and where possible how to prevent them. "Runner's knee" Runners hit the ground with anything between 5 and 9 times their body weight on each stride.</p><img src="http://www.castletriathlonseries.co.uk/wp-content/uploads/2015/11/Chantilly_SUN-770.jpg"></article>]]></description>
             <link>http://www.castletriathlonseries.co.uk/news/common-injuries-from-tri-and-how-to-prevent-them/#story</link>
             <guid isPermaLink="false">dafed74d-183a-42b9-8b85-663d6ce9105d</guid>
-            <pubDate>Fri, 20 Nov 2015 17:39:18 GMT</pubDate>
+            <pubDate>Fri, 20 Nov 2015 17:47:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fancy Dress at Tonbridge parkrun]]></title>
-            <description><![CDATA[<article><h1>Fancy Dress at Tonbridge parkrun</h1><p>Halloween</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59691cc6-23e3-48b5-96e8-17146cb65d95.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1></h1><p>Halloween</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59691cc6-23e3-48b5-96e8-17146cb65d95.jpg"></article>]]></description>
             <link>https://thegrid.ai/tonrunner/tonbridge-parkrun-halloween-2015/index.html</link>
             <guid isPermaLink="false">47de9418-4c90-4ea0-b625-0c8546fd16dc</guid>
-            <pubDate>Fri, 20 Nov 2015 17:29:52 GMT</pubDate>
+            <pubDate>Fri, 20 Nov 2015 18:18:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
