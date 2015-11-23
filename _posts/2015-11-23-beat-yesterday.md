@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How will you beat Yesterday?
-datePublished: '2015-11-23T16:49:11.561Z'
-dateModified: '2015-11-23T16:41:28.460Z'
+datePublished: '2015-11-23T16:58:02.458Z'
+dateModified: '2015-11-23T16:49:11.561Z'
 title: Beat Yesterday
 author: []
 authors: []
