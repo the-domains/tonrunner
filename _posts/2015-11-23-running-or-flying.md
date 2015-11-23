@@ -6,19 +6,19 @@ isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: flying dogs head
-datePublished: '2015-11-23T09:00:00.010Z'
-dateModified: '2015-11-23T08:59:42.098Z'
-title: Running or Flying
+description: ''
+datePublished: '2015-11-23T10:52:50.316Z'
+dateModified: '2015-11-23T10:52:46.185Z'
+title: Running or Flying?
 author: []
+sourcePath: _posts/2015-11-23-running-or-flying.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-23-running-or-flying.md
-published: true
 _type: Blurb
 
 ---
