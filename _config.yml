@@ -1,7 +1,7 @@
 name: TonRunner
 favicon: null
 layout_spectrum: 0.37585
-typography_spectrum: 0.32096
+typography_spectrum: 0.35195
 title: 'Swim Bike Run - Tonbridge, Kent, UK'
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.375
   lightness: 0.6875
   saturation: 0.5625
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.75
 purpose: []
