@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "My running buddy (and I'm sure swimming given the chance) Rusty, an 18 month fox red labrador."
-datePublished: '2015-11-25T14:27:43.973Z'
-dateModified: '2015-11-25T14:27:36.957Z'
+datePublished: '2015-11-25T16:18:42.752Z'
+dateModified: '2015-11-25T16:18:37.833Z'
 title: "'Rusty'"
 author: []
 sourcePath: _posts/2015-11-20-my-running-buddy-rusty.md
@@ -23,6 +23,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![My running buddy (and I'm sure swimming given the chance) Rusty, an 18 month fox red labrador.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1d21044-2bce-4e29-8c24-372633b9e86d.jpg)
+![My running buddy (and I'm sure swimming given the chance) Rusty, an 18 month fox red labrador.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8facc445-20ad-4725-ab97-10a8a038ae58.jpg)
 
 #
