@@ -4,7 +4,7 @@
         <description><![CDATA[Swim Bike Run - Tonbridge, Kent, UK]]></description>
         <link>https://thegrid.ai/tonrunner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 20:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 11:04:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tonrunner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Anthony Lester]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tonrunner/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Fri, 20 Nov 2015 18:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Training is banking, so we can withdraw when we need it most. It's a grind but when the time comes, we'll say - "Show me the money!"</p>]]></description>
+            <link>https://twitter.com/samruddockT35/status/669201046296764416</link>
+            <guid isPermaLink="false">d9f489a9-3afb-4468-86df-eae4791d80c1</guid>
+            <pubDate>Wed, 25 Nov 2015 11:02:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Train Slower, Race Faster]]></title>
@@ -68,13 +75,6 @@
             <link>http://triathlete-europe.competitor.com/2015/11/20/the-benefits-of-a-strong-core?utm_source=twitterfeed&amp;utm_medium=twitter</link>
             <guid isPermaLink="false">86ff72a8-d1c2-4c8a-b18d-5efcc7fab33b</guid>
             <pubDate>Fri, 20 Nov 2015 19:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hever Castle Triathlon '15]]></title>
-            <description><![CDATA[<article><h1>Hever Castle Triathlon '15</h1><p>Standard Distance:1900m swim, 40km Ride, 10km Bike</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39c0416d-0836-4b02-8f98-08a88dda0220.jpg"></article>]]></description>
-            <link>https://thegrid.ai/tonrunner/hever-castle-triathlon-15/index.html</link>
-            <guid isPermaLink="false">efde485b-c9c4-428d-b242-7ae05782ec40</guid>
-            <pubDate>Fri, 20 Nov 2015 19:04:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
