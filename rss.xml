@@ -4,7 +4,7 @@
         <description><![CDATA[Swim Bike Run - Tonbridge, Kent, UK]]></description>
         <link>https://thegrid.ai/tonrunner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 Nov 2015 15:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Nov 2015 21:45:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tonrunner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Anthony Lester]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tonrunner/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Fri, 20 Nov 2015 18:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A long running myth - Athletics Weekly]]></title>
+            <description><![CDATA[<article><h1>A long running myth - Athletics Weekly</h1><p>Running has a reputation as being bad for your joints and bad for your heart. Indeed, non-runners will tell you that it is an activity as beneficial to your knees as hitting them with a hammer and is more likely to cut your life short than enhance it.</p><img src="http://www.athleticsweekly.com/wp-content/uploads/2015/04/running.jpg"></article>]]></description>
+            <link>http://www.athleticsweekly.com/featured/a-long-running-myth-36470/</link>
+            <guid isPermaLink="false">b7929c47-5d04-4a12-95fc-68b06721fdb4</guid>
+            <pubDate>Mon, 30 Nov 2015 21:45:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[50 Milestone]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/tonrunner/fancy-dress-at-tonbridge-parkrun/index.html</link>
             <guid isPermaLink="false">0f25b0b0-5689-4717-a96b-3dd97df1d992</guid>
             <pubDate>Fri, 20 Nov 2015 21:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Fears over funding cuts for grassroots sport. Long term effects would be devastating http://www.theguardian.com/sport/2015/nov/19/labour-andy-burnham-cuts-sports-funding?CMP=share_btn_tw&utm_content=buffered729&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer ...</p>]]></description>
-            <link>https://twitter.com/chrissiesmiles/status/667652206368333825</link>
-            <guid isPermaLink="false">05bbf81b-d932-4500-990e-a3e6bdd841bf</guid>
-            <pubDate>Fri, 20 Nov 2015 19:55:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
