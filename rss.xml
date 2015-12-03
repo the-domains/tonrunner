@@ -4,7 +4,7 @@
         <description><![CDATA[Swim Bike Run - Tonbridge, Kent, UK]]></description>
         <link>https://thegrid.ai/tonrunner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 22:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 08:36:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tonrunner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Anthony Lester]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tonrunner/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Fri, 20 Nov 2015 18:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transition from pool to open water swimming]]></title>
+            <description><![CDATA[<article><h1>Transition from pool to open water swimming</h1><p>Written by Adam Walker Adam is a swim coach and motivational speaker who became the first British person to swim the hardest 7 ocean swims in the world. He teaches people swim stroke, psychology and all aspects in order to achieve their specific swimming goals. 1.</p><img src="http://realbuzz4.s3.amazonaws.com/photo_field_photos/630x450/a2488fd83449cd457d59c8f1b723129aa7de.jpg"></article>]]></description>
+            <link>https://www.realbuzz.com/articles/transition-from-pool-to-open-water-swimming/</link>
+            <guid isPermaLink="false">d99d09a7-38cb-4637-ae5a-c50695cbbbf5</guid>
+            <pubDate>Thu, 03 Dec 2015 08:35:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Energy drinks run out of fizz as scientists discover spoonful of sugar in water has same effect]]></title>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/-Y6Zj5h4by/</link>
             <guid isPermaLink="false">bd95aebe-5ada-4f22-a280-b9f0ef7ea559</guid>
             <pubDate>Sun, 22 Nov 2015 15:27:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016 Race List]]></title>
-            <description><![CDATA[<article><h1>2016 Race List</h1><p>I like competing, I never used to but I have found more and more that I do. It maybe that I have come to accept that I am not really competing against anyone else merely against myself; can I go further faster or higher than I have done before. I think it also comes with the realisation that there is always going to be somebody better than you. </p></article>]]></description>
-            <link>https://thegrid.ai/tonrunner/2016-race-list/index.html</link>
-            <guid isPermaLink="false">9992db98-edef-4ff6-b121-dd52015e3fd2</guid>
-            <pubDate>Thu, 26 Nov 2015 09:29:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
