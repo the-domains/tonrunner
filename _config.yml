@@ -8,11 +8,11 @@ color:
     - '#827354'
     - '#838254'
   brandStrength: 0.384009
-  lightness: 0.5625
-  rhythmicContrast: 0.75
+  lightness: 0.468468
+  rhythmicContrast: 0.640765
   saturation: 0.4375
 cta: {}
-layout_spectrum: 0.34009
+layout_spectrum: 0.2759
 name: TonRunner
 opengraph: {}
 purpose: []
