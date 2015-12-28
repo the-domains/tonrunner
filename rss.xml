@@ -4,7 +4,7 @@
         <description><![CDATA[TonRunner]]></description>
         <link>https://thegrid.ai/tonrunner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 22:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 12:49:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tonrunner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Anthony Lester]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tonrunner/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Fri, 20 Nov 2015 18:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Advanced Marathoning]]></title>
+            <description><![CDATA[<article><h1>Advanced Marathoning</h1><p>The Pfitzinger & Douglas (P&D) training plan, interesting reading even the second time. Two years on from my last sub-3 hour attempt I am going for it again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a90336fd8b4351c62a18ee30c45dd33f279af960.jpg"></article>]]></description>
+            <link>http://ecx.images-amazon.com/images/I/51tFSXobCBL.jpg</link>
+            <guid isPermaLink="false">11a7ea4e-c059-406c-ba64-8695e9a31cfd</guid>
+            <pubDate>Mon, 28 Dec 2015 12:49:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/commentisfree/2015/nov/25/deadly-terrorism-britain-roads-security-risk</link>
             <guid isPermaLink="false">5dc90c65-4d40-4ab0-abdf-e8ac7757433a</guid>
             <pubDate>Thu, 26 Nov 2015 09:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Training is banking, so we can withdraw when we need it most. It's a grind but when the time comes, we'll say - "Show me the money!"</p>]]></description>
-            <link>https://twitter.com/samruddockT35/status/669201046296764416</link>
-            <guid isPermaLink="false">d9f489a9-3afb-4468-86df-eae4791d80c1</guid>
-            <pubDate>Wed, 25 Nov 2015 11:02:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
