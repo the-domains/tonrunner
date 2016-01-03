@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.bbc.co.uk'
-  name: BBC
-  favicon: 'http://ichef.bbci.co.uk/images/ic/128x128/p03cy5m0.jpg'
-  domain: www.bbc.co.uk
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.bbc.co.uk/programmes/b06tq3tk'
+inLanguage: en
+starred: false
 keywords:
   - diet
   - programme
@@ -18,19 +17,22 @@ keywords:
   - carbohydrate
   - vegan
 description: 'How important is diet to running performance? Dan Saladino looks at, and tries new ideas.'
-inLanguage: en
+datePublished: '2016-01-03T18:22:41.459Z'
+dateModified: '2016-01-03T18:22:35.967Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.bbc.co.uk/programmes/b06tq3tk'
-title: 'Can You Eat to Run?, Food Programme - BBC Radio 4'
-datePublished: '2016-01-03T18:16:59.265Z'
-dateModified: '2016-01-03T18:16:04.120Z'
+title: Can You Eat to Run?
 sourcePath: _posts/2016-01-03-can-you-eat-to-run-food-programme-bbc-radio-4.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: BBC
+  domain: www.bbc.co.uk
+  url: 'http://www.bbc.co.uk'
+  favicon: 'http://ichef.bbci.co.uk/images/ic/128x128/p03cy5m0.jpg'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Can You Eat to Run&amp;quest;&amp;comma; Food Programme - BBC Radio 4</h1><p>How important is diet to running performance&amp;quest; Dan Saladino looks at&amp;comma; and tries new ideas&amp;period;</p><img src="http://ichef.bbci.co.uk/images/ic/1200x675/p03cy5m0.jpg" /></article>
+<article style=""><h1>Can You Eat to Run? Food Programme - BBC Radio 4</h1><p>How important is diet to running performance? Dan Saladino looks at, and tries new ideas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e53fbde5898d850ddaf53e4bcf078b14ef6c450b.jpg" /></article>
