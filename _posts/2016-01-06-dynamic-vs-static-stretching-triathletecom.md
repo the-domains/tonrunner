@@ -17,8 +17,8 @@ keywords:
   - dynamic
   - hips
 description: 'Despite the fact that in recent years it has been in vogue to discredit the value of stretching, the combination of dynamic and static stretching-when used at the right time-can have a big impact on increasing flexibility and improving performance.'
-datePublished: '2016-01-07T15:39:49.208Z'
-dateModified: '2016-01-07T15:39:44.159Z'
+datePublished: '2016-01-08T20:26:34.019Z'
+dateModified: '2016-01-08T20:26:27.222Z'
 author: []
 related:
   - score: 0.6221289635
@@ -42,4 +42,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Dynamic Vs. Static Stretching</h1><p>Despite the fact that in recent years it has been in vogue to discredit the value of stretching, the combination of dynamic and static stretching-when used at the right time-can have a big impact on increasing flexibility and improving performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7013ae47394314b686cebc39123a18372de2928.jpg" /></article>
+<article style=""><h1>Dynamic Vs. Static Stretching</h1><p>Despite the fact that in recent years it has been in vogue to discredit the value of stretching, the combination of dynamic and static stretching-when used at the right time-can have a big impact on increasing flexibility and improving performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39aa891bfd3ad6d4d02d4712223b538d3162c36a.jpg" /></article>
