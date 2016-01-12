@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'An attempt at a blog detailing some of my experiences as I prepare for a sub 3 hour marathon  '
-datePublished: '2016-01-12T20:52:11.159Z'
-dateModified: '2016-01-12T20:52:04.628Z'
+datePublished: '2016-01-12T21:02:53.917Z'
+dateModified: '2016-01-12T21:02:45.035Z'
 title: 'Preparing for a sub 3hr marathon, Spring 2016'
 author: []
 sourcePath: _posts/2016-01-12-preparing-for-a-sub-3hr-marathon-spring-2016.md
@@ -26,7 +26,9 @@ _type: Article
 
 # Preparing for a sub 3hr marathon, Spring 2016
 
-One of the many things I have learned about running and training in particular over the last five years is that you can only succeed if you have a goal and that if you don't have a goal there is no incentive to train 'hard'. I use the term 'hard' because actually I enjoy running and would quite happily just go for a run, but that is not training. What I mean is having the discipline to go out when the weather is awful, pushing yourself for that last 2miles of a threshold run when it would be so easy to break it off early, after all who is ever going to know.
+.
+
+One of the many things I have learned about running and in particular training,  over the last five years is that you can only succeed if you have a goal. If you don't have a goal there is no incentive to train 'hard'. I use the term 'hard' because I actually enjoy running and would more than happily just go for a jog in the countryside, but that is not training. What I mean is having the discipline to go out when the weather is lashing it down, pushing yourself for that last 2miles of a threshold run when it would be so easy to pack it in early, after all who is ever going to know?
 
 The other thing that I have learnt is that you put something 'out there' in the public domain you become accountable for it, people know what your goal is, they want to know how things are going and can give you a virtual push out the door when the mojo is not bouncing. But more importantly they want to know how you do when you make an attempt at your goal; through experience I know that facing those questions having not given it 100% is an experience far worse than any marathon.
 
