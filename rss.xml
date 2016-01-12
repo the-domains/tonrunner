@@ -4,7 +4,7 @@
         <description><![CDATA[TonRunner]]></description>
         <link>https://thegrid.ai/tonrunner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 20:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 18:36:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tonrunner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Anthony Lester]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 20 Nov 2015 18:30:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MY WINTER RUN]]></title>
+            <description><![CDATA[<article><h1>MY WINTER RUN</h1><p>A winter run in Bushy Park</p></article>]]></description>
+            <link>https://vimeo.com/116106944</link>
+            <guid isPermaLink="false">ca8f4578-1349-41b7-8c63-e5155b7df841</guid>
+            <pubDate>Tue, 12 Jan 2016 18:35:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dynamic Vs. Static Stretching]]></title>
-            <description><![CDATA[<article><h1>Dynamic Vs. Static Stretching</h1><p>Despite the fact that in recent years it has been in vogue to discredit the value of stretching, the combination of dynamic and static stretching-when used at the right time-can have a big impact on increasing flexibility and improving performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39aa891bfd3ad6d4d02d4712223b538d3162c36a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Dynamic Vs. Static Stretching</h1><p>Despite the fact that in recent years it has been in vogue to discredit the value of stretching, the combination of dynamic and static stretching-when used at the right time-can have a big impact on increasing flexibility and improving performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3d8b96cf6c48391754e53b9dd59ed64a044d32f.jpg"></article>]]></description>
             <link>http://triathlon.competitor.com/2015/03/training/dynamic-vs-static-stretching_43958</link>
             <guid isPermaLink="false">94bf68ae-4ba3-4420-a7be-957282577a3c</guid>
             <pubDate>Fri, 08 Jan 2016 20:26:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.kinetic-revolution.com/five-tips-for-the-corporate-runner/</link>
             <guid isPermaLink="false">c56423bc-a13c-42e9-9e1d-a04ba6513e66</guid>
             <pubDate>Sun, 13 Dec 2015 14:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Transition from pool to open water swimming]]></title>
-            <description><![CDATA[<article><h1>Transition from pool to open water swimming</h1><p>Make your first splash into open water with these tips from open water expert Adam Walker</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8aa9589856b97d4252af231dbbc0fc1299737ed.jpg"></article>]]></description>
-            <link>https://www.realbuzz.com/articles/transition-from-pool-to-open-water-swimming/</link>
-            <guid isPermaLink="false">d99d09a7-38cb-4637-ae5a-c50695cbbbf5</guid>
-            <pubDate>Thu, 03 Dec 2015 08:40:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
