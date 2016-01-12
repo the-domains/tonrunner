@@ -17,8 +17,8 @@ keywords:
   - julia
   - curtain
 description: A winter run in Bushy Park
-datePublished: '2016-01-12T18:35:40.182Z'
-dateModified: '2016-01-12T18:35:29.763Z'
+datePublished: '2016-01-12T18:46:15.252Z'
+dateModified: '2016-01-12T18:46:09.971Z'
 author:
   - name: Julia Bleasdale
     url: 'http://vimeo.com/user24201348'
@@ -47,15 +47,15 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-title: MY WINTER RUN
+title: My Winter Run
+sourcePath: _posts/2016-01-12-my-winter-run.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-01-12-my-winter-run.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
