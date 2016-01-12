@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'An attempt at a blog detailing some of my experiences as I prepare for a sub 3 hour marathon  '
-datePublished: '2016-01-12T21:03:24.009Z'
-dateModified: '2016-01-12T21:03:11.143Z'
+datePublished: '2016-01-12T21:03:48.760Z'
+dateModified: '2016-01-12T21:03:41.824Z'
 title: 'Preparing for a sub 3hr marathon, Spring 2016'
 author: []
 sourcePath: _posts/2016-01-12-preparing-for-a-sub-3hr-marathon-spring-2016.md
