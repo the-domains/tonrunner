@@ -9,8 +9,8 @@ color:
     - '#838254'
   brandStrength: 0.384009
   lightness: 0.54054
-  rhythmicContrast: 0.41554
-  saturation: 0.48536
+  rhythmicContrast: 0.488738
+  saturation: 0.420045
 cta: {}
 layout_spectrum: 0.331081
 name: TonRunner
