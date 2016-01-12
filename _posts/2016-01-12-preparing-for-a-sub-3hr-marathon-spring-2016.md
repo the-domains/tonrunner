@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'An attempt at a blog detailing some of my experiences as I prepare for a sub 3 hour marathon  '
-datePublished: '2016-01-12T21:02:53.917Z'
-dateModified: '2016-01-12T21:02:45.035Z'
+datePublished: '2016-01-12T21:03:24.009Z'
+dateModified: '2016-01-12T21:03:11.143Z'
 title: 'Preparing for a sub 3hr marathon, Spring 2016'
 author: []
 sourcePath: _posts/2016-01-12-preparing-for-a-sub-3hr-marathon-spring-2016.md
@@ -25,8 +25,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fd49f53-bb00-40be-be69-38358568bdc2.jpg)
 
 # Preparing for a sub 3hr marathon, Spring 2016
-
-.
 
 One of the many things I have learned about running and in particular training,  over the last five years is that you can only succeed if you have a goal. If you don't have a goal there is no incentive to train 'hard'. I use the term 'hard' because I actually enjoy running and would more than happily just go for a jog in the countryside, but that is not training. What I mean is having the discipline to go out when the weather is lashing it down, pushing yourself for that last 2miles of a threshold run when it would be so easy to pack it in early, after all who is ever going to know?
 
