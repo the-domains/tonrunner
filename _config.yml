@@ -1,5 +1,19 @@
+name: TonRunner
+favicon: null
+layout_spectrum: 0.13849
+typography_spectrum: 0.37692
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-71200215-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#272822'
@@ -9,11 +23,6 @@ color:
     - '#838254'
   brandStrength: 0.384009
   lightness: 0.546171
-  rhythmicContrast: 1
   saturation: 0.420045
-cta: {}
-layout_spectrum: 0.331081
-name: TonRunner
-opengraph: {}
+  rhythmicContrast: 1
 purpose: []
-typography_spectrum: 0.37692
