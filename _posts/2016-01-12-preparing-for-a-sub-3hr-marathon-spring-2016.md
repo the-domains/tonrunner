@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'An attempt at a blog detailing some of my experiences as I prepare for a sub 3 hour marathon  '
-datePublished: '2016-01-12T21:03:48.760Z'
-dateModified: '2016-01-12T21:03:41.824Z'
+datePublished: '2016-01-15T06:58:43.748Z'
+dateModified: '2016-01-15T06:58:36.764Z'
 title: 'Preparing for a sub 3hr marathon, Spring 2016'
 author: []
 sourcePath: _posts/2016-01-12-preparing-for-a-sub-3hr-marathon-spring-2016.md
@@ -46,4 +46,4 @@ There were a couple of aerobic sessions of 8 and 10 miles and of course a longer
 
 # 13 Weeks to Brighton
 
-Lesson learnt from last week, **Monday** was a short recovery 3.3mile run with Hadlow Runners around Tonbridge. **Tuesday** was the first real 'tester' of the program and one that going to let me know where I stood. It was a threshold run, 9 mile with 5miles at half marathon pace (around 6:28/mile). It was OK but started to hurt for the last couple of miles but I kept up the pace dropping just below 6.33/m for the last 2miles; it probably didn't help that there was a slight incline, headwind and I was overdressed!! I think it was a good session for 'mental toughness' training as the course went past home with 3miles to go.
+Lesson learnt from last week, **Monday** was a short recovery 3.3mile run with Hadlow Runners around Tonbridge. **Tuesday** was the first real 'tester' of the program and one that going to let me know where I stood. It was a threshold run, 9 mile with 5miles at half marathon pace (around 6:28/mile). It was OK but started to hurt for the last couple of miles but I kept up the pace dropping just below 6.33/m for the last 2miles; it probably didn't help that there was a slight incline, headwind and I was overdressed!! I think it was a good session for 'mental toughness' training as the course went past home with 3miles to go.   **Wednesday **was a rest day so a nice easy 4.5 miles with Hadlow runners around Tonbridge. **Thursday** was 10 miles of G_eneral Aerobic_ (GA); first of all it was bloody cold! well it probably wasn't that cold, about 1 degree but this winter really hasn't kicked in until now, with balmy temperatures of around 10 or 11 so dropping that much in one day was a shock to the system. Anyway despite this I still got out and did it, although there were a couple of issues along the way. My 1mile warm-up as set by my Garmin transpired to be a 1metre warm-up clearly I had messed up the program when I set it up on the computer! Secondly GA means that you should be running in Heart Rate Zone (HRZ) \#3 in my case 149-161 which is fine but the upper limit of that means that I am running very close to lactate threshold - 10 miles of that is tough going especially as Tuesdays session was exactly that!
