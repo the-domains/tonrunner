@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'An attempt at a blog detailing some of my experiences as I prepare for a sub 3 hour marathon  '
-datePublished: '2016-01-15T06:58:43.740Z'
-dateModified: '2016-01-15T06:58:36.764Z'
+datePublished: '2016-01-15T16:10:05.747Z'
+dateModified: '2016-01-15T16:09:59.091Z'
 title: 'Preparing for a sub 3hr marathon, Spring 2016'
 author: []
 sourcePath: _posts/2016-01-12-preparing-for-a-sub-3hr-marathon-spring-2016.md
