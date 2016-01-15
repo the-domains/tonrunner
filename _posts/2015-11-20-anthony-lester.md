@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: my biog
-datePublished: '2016-01-15T15:54:32.424Z'
-dateModified: '2016-01-15T15:54:32.161Z'
+datePublished: '2016-01-15T16:14:00.600Z'
+dateModified: '2016-01-15T16:13:57.676Z'
 title: ''
 author: []
 sourcePath: _posts/2015-11-20-anthony-lester.md
