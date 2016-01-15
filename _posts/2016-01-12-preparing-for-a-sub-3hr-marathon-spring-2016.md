@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'An attempt at a blog detailing some of my experiences as I prepare for a sub 3 hour marathon  '
-datePublished: '2016-01-15T16:17:37.751Z'
+datePublished: '2016-01-15T16:17:37.792Z'
 dateModified: '2016-01-15T16:17:33.390Z'
 title: 'Preparing for a sub 3hr marathon, Spring 2016'
 author: []
