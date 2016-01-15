@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: my biog
-datePublished: '2016-01-15T16:14:00.763Z'
-dateModified: '2016-01-15T16:13:57.676Z'
+datePublished: '2016-01-15T16:23:10.305Z'
+dateModified: '2016-01-15T16:23:07.077Z'
 title: ''
 author: []
 sourcePath: _posts/2015-11-20-anthony-lester.md
