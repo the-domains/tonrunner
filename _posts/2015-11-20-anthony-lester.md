@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: my biog
-datePublished: '2016-01-15T15:51:28.775Z'
-dateModified: '2016-01-15T15:51:25.018Z'
-title: Anthony Lester
+datePublished: '2016-01-15T15:54:12.552Z'
+dateModified: '2016-01-15T15:54:04.168Z'
+title: ''
 author: []
 sourcePath: _posts/2015-11-20-anthony-lester.md
 published: true
@@ -23,9 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd6043d8-1f8b-4392-9c98-acc1e7f3ca40.jpg)
-
-# Anthony Lester
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7485e341d226557141cd6416a70bfd3de6c87064.jpg)
 
 This is my scrapbook of all things that interest, amuse, fascinate and inspire me in the world of swimming, cycling and running. I could have done it on facebook but all my friends and family are probably sick to death of my constant witterings and ramblings. 
 
