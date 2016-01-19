@@ -1,17 +1,10 @@
 ---
-author:
-  - name: chrissiesmiles
-    url: 'http://twitter.com/chrissiesmiles'
-    avatar:
-      src: 'https://pbs.twimg.com/profile_images/1611879053/CWellington_111018-0979-1_bigger.jpg'
-      width: 73
-      height: 73
-related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/chrissiesmiles/status/667652206368333825'
+inLanguage: en
+starred: false
 keywords:
   - chrissiesmiles
   - parkrun
@@ -23,18 +16,27 @@ keywords:
   - utm_content
   - devastating
   - jijgtzgdrg
-description: 'Fears over funding cuts for grassroots sport. Long term effects would be devastating http://www.theguardian.com/sport/2015/nov/19/labour-andy-burnham-cuts-sports-funding?CMP=share_btn_tw&utm_content=buffered729&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer ...'
-inLanguage: en
+description: ''
+datePublished: '2016-01-19T16:42:38.015Z'
+dateModified: '2016-01-19T16:42:32.607Z'
+author:
+  - name: chrissiesmiles
+    url: 'http://twitter.com/chrissiesmiles'
+    avatar:
+      src: 'https://pbs.twimg.com/profile_images/1611879053/CWellington_111018-0979-1_bigger.jpg'
+      width: 73
+      height: 73
+related: []
 app_links: []
-isBasedOnUrl: 'https://twitter.com/chrissiesmiles/status/667652206368333825'
-datePublished: '2015-11-20T19:55:03.307Z'
-dateModified: '2015-11-20T19:54:12.721Z'
 title: ''
 sourcePath: _posts/2015-11-20-fears-over-funding-cuts-for-grassroots-sport-long-term-effe.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
