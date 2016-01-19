@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/samruddockT35/status/669201046296764416'
+inLanguage: en
+starred: false
+keywords:
+  - location
+  - twitter
+  - tweet
+  - ruddock
+  - skysportslfs
+  - youthsporttrust
+  - copying
+  - wwe
+  - hiccup
+  - momentary
+description: ''
+datePublished: '2016-01-19T16:41:43.945Z'
+dateModified: '2016-01-19T16:41:38.153Z'
 author:
   - name: samruddockt35
     url: 'http://twitter.com/samruddockt35'
@@ -23,34 +43,16 @@ author:
           - 91
           - 71
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - location
-  - twitter
-  - tweet
-  - ruddock
-  - skysportslfs
-  - youthsporttrust
-  - copying
-  - wwe
-  - hiccup
-  - momentary
-description: "Training is banking, so we can withdraw when we need it most. It's a grind but when the time comes, we'll say - \"Show me the money!\""
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/samruddockT35/status/669201046296764416'
-datePublished: '2015-11-25T11:02:58.752Z'
-dateModified: '2015-11-25T11:01:52.852Z'
 title: ''
 sourcePath: _posts/2015-11-25-training-is-banking-so-we-can-withdraw-when-we-need-it-most.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
