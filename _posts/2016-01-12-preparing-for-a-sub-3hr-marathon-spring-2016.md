@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'An attempt at a blog detailing some of my experiences as I prepare for a sub 3 hour marathon  '
-datePublished: '2016-01-18T09:46:11.418Z'
-dateModified: '2016-01-18T09:46:06.814Z'
+datePublished: '2016-01-19T16:36:21.445Z'
+dateModified: '2016-01-19T16:36:18.939Z'
 title: "Sub 3hr marathon training, Spring '16"
 author: []
 sourcePath: _posts/2016-01-12-preparing-for-a-sub-3hr-marathon-spring-2016.md
@@ -56,6 +56,6 @@ Lesson learnt from last week, **Monday** was a short recovery 3.3mile run with H
 
 ## 12 Weeks to Brighton
 
-Officially this is known as a recovery week but still involves 37miles of running.  
+Officially this is known as a recovery week but still involves 37miles of running.  **Monday - **Brr it was cold! minus 2 when I got back from doing a 3.5mile slow jog with Hadlow runners I also had Rusty with me.
 
 [0]: https://docs.google.com/spreadsheets/d/1Cl_DvZj82hFzsy6fQGn1vheRfsPbCElqLrpQEggV7OY/edit?usp=sharing
