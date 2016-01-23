@@ -1,20 +1,5 @@
-name: TonRunner
-favicon: null
-layout_spectrum: 0.38058
-typography_spectrum: 0.37692
-title: 'My Swim | Cycle | Run'
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-71200215-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#272822'
@@ -22,8 +7,13 @@ color:
     - '#423b2b'
     - '#827354'
     - '#838254'
-  brandStrength: 0.4375
-  lightness: 0.546171
-  saturation: 0.420045
+  brandStrength: 0.397522
+  lightness: 0.463963
   rhythmicContrast: 1
+  saturation: 0.420045
+cta: {}
+layout_spectrum: 0.38058
+name: TonRunner
+opengraph: {}
 purpose: []
+typography_spectrum: 0.37692
