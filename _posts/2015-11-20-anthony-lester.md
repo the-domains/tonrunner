@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-23T20:03:14.849Z'
-dateModified: '2016-01-23T20:03:08.206Z'
+description: 'This is my scrapbook of all things that interest, amuse, fascinate and inspire me in the world of swimming, cycling and running. I could have done it on facebook but all my friends and family are probably sick to death of my constant witterings and ramblings.'
+datePublished: '2016-01-23T20:08:18.521Z'
+dateModified: '2016-01-23T20:08:14.932Z'
 title: TonRunner
 author: []
 sourcePath: _posts/2015-11-20-anthony-lester.md
