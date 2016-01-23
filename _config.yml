@@ -2,6 +2,7 @@ name: TonRunner
 favicon: null
 layout_spectrum: 0.38058
 typography_spectrum: 0.37692
+title: 'TonRunner '
 cta:
   domain: null
   bucket: null
