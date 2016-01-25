@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 21:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 12:00:29 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sat, 23 Jan 2016 20:14:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[2016 Race Schedule]]></title>
+            <description><![CDATA[<article><h1>2016 Race Schedule</h1><p>I like competing, I never used to but I have found more and more that I do. It maybe that I have come to accept that I am not really competing against anyone else merely against myself; can I go further faster or higher than I have done before. I think it also comes with the realisation that there is always going to be somebody better than you. </p></article>]]></description>
+            <link>http://tonrunner.uk/2016-race-list/index.html</link>
+            <guid isPermaLink="false">9992db98-edef-4ff6-b121-dd52015e3fd2</guid>
+            <pubDate>Mon, 25 Jan 2016 12:00:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dame Kelly Holmes joins in Tonbridge Park Run]]></title>
-            <description><![CDATA[<article><h1>Dame Kelly Holmes joins in Tonbridge Park Run</h1><p>Partakers in this morning's Tonbridge Park run were put through their paces by double Olympic champion Kelly Holmes. The dame joined runners at the 5km weekly event, which starts at 9am every Saturday in Tonbridge Park. She tweeted afterwards that the biggest challenge was the bitingly cold temperatures.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a675638807b79bf1bc702825798c6cf4ac5333b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Dame Kelly Holmes joins in Tonbridge Park Run</h1><p>Partakers in this morning's Tonbridge Park run were put through their paces by double Olympic champion Kelly Holmes. The dame joined runners at the 5km weekly event, which starts at 9am every Saturday in Tonbridge Park. She tweeted afterwards that the biggest challenge was the bitingly cold temperatures.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/506964da6143da2c8a1c1f87b1f2ec1a2d212776.jpg"></article>]]></description>
             <link>http://www.kentonline.co.uk/tonbridge/news/double-olympic-champion-joins-in-59724/</link>
             <guid isPermaLink="false">2313190c-c948-443a-8b49-7bf647a5c7e3</guid>
             <pubDate>Sat, 23 Jan 2016 21:43:13 GMT</pubDate>
@@ -65,13 +72,6 @@
             <link>http://tonrunner.uk/run-tip1/index.html</link>
             <guid isPermaLink="false">27dc428f-5f04-4585-a525-cfb8d6757a3e</guid>
             <pubDate>Fri, 15 Jan 2016 15:50:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Winter Run]]></title>
-            <description><![CDATA[<article><h1>My Winter Run</h1><p>A winter run in Bushy Park</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc3f5771e1183add7da9363116ccded8daee3e50.jpg"></article>]]></description>
-            <link>https://vimeo.com/116106944</link>
-            <guid isPermaLink="false">ca8f4578-1349-41b7-8c63-e5155b7df841</guid>
-            <pubDate>Tue, 12 Jan 2016 18:46:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
