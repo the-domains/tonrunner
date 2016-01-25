@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 12:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 17:34:19 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Sat, 23 Jan 2016 20:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Race to the Stones - UK's #1 Ultra Marathon]]></title>
+            <description><![CDATA[<article><h1>Race to the Stones - UK's #1 Ultra Marathon</h1><p>The Dixons Carphone Race to the Stones is a fully supported 100km challenge along the iconic Ridgeway. Whether you run it or walk it, complete it in one go or stay overnight in our basecamp, the event is guaranteed to be the challenge of a lifetime.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5afdb9d4fb0cd9da2b0d834e10fac7dd7e016cb.png"></article>]]></description>
+            <link>http://www.racetothestones.com/</link>
+            <guid isPermaLink="false">db792c48-5142-47af-9cd3-3097a6e7fe66</guid>
+            <pubDate>Mon, 25 Jan 2016 17:33:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2016 Race Schedule]]></title>
@@ -65,13 +72,6 @@
             <link>http://tonrunner.uk/preparing-for-a-sub-3hr-marathon-spring-2016/index.html</link>
             <guid isPermaLink="false">1e8bbc06-25da-4200-a395-30bf5dc60eda</guid>
             <pubDate>Tue, 19 Jan 2016 16:36:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Run Tip#1]:]]></title>
-            <description><![CDATA[<article><h1>[Run Tip#1]:</h1><p>Runners as a rule rarely warm-up beyond lacing up and starting off slow. Yes the occasional toe touch goes in the right direction...but falls woefully short of "undoing" all the time spent in stiff positions at work, in the car, or at home.! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50fa8120abc39b560f867e42c3e9cbf756c72b16.jpg"></article>]]></description>
-            <link>http://tonrunner.uk/run-tip1/index.html</link>
-            <guid isPermaLink="false">27dc428f-5f04-4585-a525-cfb8d6757a3e</guid>
-            <pubDate>Fri, 15 Jan 2016 15:50:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
