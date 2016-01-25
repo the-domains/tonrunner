@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 17:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 22:30:53 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sat, 23 Jan 2016 20:14:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The 25 Golden Rules of Running]]></title>
+            <description><![CDATA[<article><h1>The 25 Golden Rules of Running</h1><p>The most effective training mimics the event for which you're training. This is the cardinal rule of training for any activity. If you want to run a 10-K at seven-minute-per-mile pace, you need to do some running at that pace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddfc1ffc8639b457054b2ed1aa2cce27bb474214.jpg"></article>]]></description>
+            <link>http://www.runnersworld.com/running-tips/the-25-golden-rules-of-running?cid=soc_runnersworld_TWITTER_Runner%E2%80%99s%20World__Motivation_RunningTips</link>
+            <guid isPermaLink="false">5e457955-fd1f-4022-a48d-7048b9d88686</guid>
+            <pubDate>Mon, 25 Jan 2016 22:30:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Race to the Stones - UK's #1 Ultra Marathon]]></title>
-            <description><![CDATA[<article><h1>Race to the Stones - UK's #1 Ultra Marathon</h1><p>The Dixons Carphone Race to the Stones is a fully supported 100km challenge along the iconic Ridgeway. Whether you run it or walk it, complete it in one go or stay overnight in our basecamp, the event is guaranteed to be the challenge of a lifetime.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5afdb9d4fb0cd9da2b0d834e10fac7dd7e016cb.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Race to the Stones - UK's #1 Ultra Marathon</h1><p>The Dixons Carphone Race to the Stones is a fully supported 100km challenge along the iconic Ridgeway. Whether you run it or walk it, complete it in one go or stay overnight in our basecamp, the event is guaranteed to be the challenge of a lifetime.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/decb77f1f62875e7f2b51fe28cd88004df7477cf.png"></article>]]></description>
             <link>http://www.racetothestones.com/</link>
             <guid isPermaLink="false">db792c48-5142-47af-9cd3-3097a6e7fe66</guid>
             <pubDate>Mon, 25 Jan 2016 17:33:43 GMT</pubDate>
@@ -65,13 +72,6 @@
             <link>https://www.youtube.com/watch?v=slTNf0sweD8</link>
             <guid isPermaLink="false">1414fed5-6427-4a38-9790-c579ae9d3b77</guid>
             <pubDate>Sun, 17 Jan 2016 18:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sub 3hr marathon training, Spring '16]]></title>
-            <description><![CDATA[<article><h1>Sub 3hr marathon training, Spring '16</h1><p>One of the many things I have learned about running and in particular training,  over the last five years is that you can only succeed if you have a goal. If you don't have a goal there is no incentive to train 'hard'. I use the term 'hard' because I actually enjoy running and would more than happily just go for a jog in the countryside, but that is not training. What I mean is having the discipline to go out when the weather is lashing it down, pushing yourself for that last 2miles of a threshold run when it would be so easy to pack it in early, after all who is ever going to know?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a51598d1c3bba9ed5d1f0e973c9029afc8e9bb34.jpg"></article>]]></description>
-            <link>http://tonrunner.uk/preparing-for-a-sub-3hr-marathon-spring-2016/index.html</link>
-            <guid isPermaLink="false">1e8bbc06-25da-4200-a395-30bf5dc60eda</guid>
-            <pubDate>Tue, 19 Jan 2016 16:36:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
