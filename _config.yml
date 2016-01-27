@@ -1,7 +1,7 @@
 name: TonRunner
 favicon: null
 layout_spectrum: 0.429054
-typography_spectrum: 0.39527
+typography_spectrum: 0.36103
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#827354'
     - '#838254'
   brandStrength: 0.397522
-  lightness: 0.75
+  lightness: 0.625
   saturation: 0.420045
   rhythmicContrast: 0.5
 purpose: []
