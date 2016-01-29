@@ -2,6 +2,7 @@ name: TonRunner
 favicon: null
 layout_spectrum: 0.429054
 typography_spectrum: 0.54933
+title: 'Swim | Cycle | Run'
 cta:
   domain: null
   bucket: null
