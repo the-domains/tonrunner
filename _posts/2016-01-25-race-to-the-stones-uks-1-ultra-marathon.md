@@ -17,7 +17,7 @@ keywords:
   - 000-year-old
   - avebury
 description: 'In a momentary lapse of concentration/judgment I seem to have entered this race!!! The Dixons Carphone Race to the Stones is a fully supported 100km challenge along the iconic Ridgeway. Whether you run it or walk it, complete it in one go or stay overnight in our basecamp, the event is guaranteed to be the challenge of a lifetime.'
-datePublished: '2016-01-30T14:08:30.651Z'
+datePublished: '2016-01-30T14:08:30.644Z'
 dateModified: '2016-01-30T14:08:27.532Z'
 author: []
 related: []
