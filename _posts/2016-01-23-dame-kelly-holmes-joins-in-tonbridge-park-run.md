@@ -17,7 +17,7 @@ keywords:
   - park
   - thawing
 description: "Partakers in this morning's Tonbridge Park run were put through their paces by double Olympic champion Kelly Holmes. The dame joined runners at the 5km weekly event, which starts at 9am every Saturday in Tonbridge Park. She tweeted afterwards that the biggest challenge was the bitingly cold temperatures."
-datePublished: '2016-01-30T13:49:39.992Z'
+datePublished: '2016-01-30T13:49:40.010Z'
 dateModified: '2016-01-30T13:49:37.744Z'
 author: []
 related:
