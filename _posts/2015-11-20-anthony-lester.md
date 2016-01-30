@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'This is my scrapbook of all things that interest, amuse, fascinate and inspire me in the world of swimming, cycling and running. I could have done it on facebook but all my friends and family are probably sick to death of my constant witterings and ramblings.'
-datePublished: '2016-01-30T14:17:13.709Z'
+datePublished: '2016-01-30T14:17:13.587Z'
 dateModified: '2016-01-30T14:17:09.822Z'
 title: TonRunner
 author: []
