@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 13:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 13:56:09 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Fri, 29 Jan 2016 15:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Running Motivation]]></title>
+            <description><![CDATA[<article><h1>Running Motivation</h1><p>5 Ways A Morning Run Will Change Your Life</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/998f7b8cbf9ed6acf348c2ddf121ccc0a558e7b5.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=slTNf0sweD8</link>
+            <guid isPermaLink="false">1414fed5-6427-4a38-9790-c579ae9d3b77</guid>
+            <pubDate>Sat, 30 Jan 2016 13:56:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Lazy' Dog Crashes Half Marathon, Finishes Seventh]]></title>
@@ -43,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Dame Kelly Holmes joins in Tonbridge parkrun #112]]></title>
-            <description><![CDATA[<article><h1>Dame Kelly Holmes joins in Tonbridge parkrun #112</h1><p>Partakers in this morning's Tonbridge Park run were put through their paces by double Olympic champion Kelly Holmes. The dame joined runners at the 5km weekly event, which starts at 9am every Saturday in Tonbridge Park. She tweeted afterwards that the biggest challenge was the bitingly cold temperatures.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/506964da6143da2c8a1c1f87b1f2ec1a2d212776.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Dame Kelly Holmes joins in Tonbridge parkrun #112</h1><p>Partakers in this morning's Tonbridge Park run were put through their paces by double Olympic champion Kelly Holmes. The dame joined runners at the 5km weekly event, which starts at 9am every Saturday in Tonbridge Park. She tweeted afterwards that the biggest challenge was the bitingly cold temperatures.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21cc028e8b9e4f5015564086530baf718415dd76.jpg"></article>]]></description>
             <link>http://www.kentonline.co.uk/tonbridge/news/double-olympic-champion-joins-in-59724/</link>
             <guid isPermaLink="false">2313190c-c948-443a-8b49-7bf647a5c7e3</guid>
             <pubDate>Sat, 30 Jan 2016 13:49:39 GMT</pubDate>
@@ -66,12 +73,6 @@
             <link>https://twitter.com/samruddockT35/status/669201046296764416</link>
             <guid isPermaLink="false">d9f489a9-3afb-4468-86df-eae4791d80c1</guid>
             <pubDate>Tue, 19 Jan 2016 16:41:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/alester229/status/681157505062440961</link>
-            <guid isPermaLink="false">a33c54b9-dbb9-4d73-aa0a-1b76558ebc0d</guid>
-            <pubDate>Tue, 19 Jan 2016 16:38:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
