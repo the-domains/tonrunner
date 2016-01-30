@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'This is my scrapbook of all things that interest, amuse, fascinate and inspire me in the world of swimming, cycling and running. I could have done it on facebook but all my friends and family are probably sick to death of my constant witterings and ramblings.'
-datePublished: '2016-01-30T14:30:41.855Z'
-dateModified: '2016-01-30T14:30:29.474Z'
-title: ' '
+datePublished: '2016-01-30T14:34:02.639Z'
+dateModified: '2016-01-30T14:33:56.171Z'
+title: About me...
 author: []
 sourcePath: _posts/2015-11-20-anthony-lester.md
 published: true
@@ -23,9 +23,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# ![This is my scrapbook of all things that interest, amuse, fascinate and inspire me in the world of swimming, cycling and running. I could have done it on facebook but all my friends and family are probably sick to death of my constant witterings and ramblings. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7988b4d19c9e47c2f70d5817bf09e59ddf966a3.jpg)
+![This is my scrapbook of all things that interest, amuse, fascinate and inspire me in the world of swimming, cycling and running. I could have done it on facebook but all my friends and family are probably sick to death of my constant witterings and ramblings. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7988b4d19c9e47c2f70d5817bf09e59ddf966a3.jpg)
 
-## About me.
+# About me...
 
 This is my scrapbook of all things that interest, amuse, fascinate and inspire me in the world of swimming, cycling and running. I could have done it on facebook but all my friends and family are probably sick to death of my constant witterings and ramblings. 
 
