@@ -17,12 +17,12 @@ keywords:
   - 000-year-old
   - avebury
 description: 'In a momentary lapse of concentration/judgment I seem to have entered this race!!! The Dixons Carphone Race to the Stones is a fully supported 100km challenge along the iconic Ridgeway. Whether you run it or walk it, complete it in one go or stay overnight in our basecamp, the event is guaranteed to be the challenge of a lifetime.'
-datePublished: '2016-01-30T13:59:03.605Z'
-dateModified: '2016-01-30T13:58:59.433Z'
+datePublished: '2016-01-30T14:08:01.547Z'
+dateModified: '2016-01-30T14:07:55.280Z'
 author: []
 related: []
 app_links: []
-title: Race to the Stones
+title: ' '
 sourcePath: _posts/2016-01-25-race-to-the-stones-uks-1-ultra-marathon.md
 published: true
 authors: []
@@ -35,8 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/decb77f1f62875e7f2b51fe28cd88004df7477cf.png" /></article>
+<article style=""><h1>Race to the Stones</h1><p>In a momentary lapse of concentration/judgment I seem to have entered this race!!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e85f9305fc4af09ef8baec94ec62c339e2533b06.png" /></article>
 
-# Race to the Stones
-
-In a momentary lapse of concentration/judgment I seem to have entered this race!!! The Dixons Carphone Race to the Stones is a fully supported 100km challenge along the iconic Ridgeway. Whether you run it or walk it, complete it in one go or stay overnight in our basecamp, the event is guaranteed to be the challenge of a lifetime.
+#
