@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'An attempt at a blog detailing some of my experiences as I prepare for a sub 3 hour marathon  '
-datePublished: '2016-01-19T16:36:21.452Z'
-dateModified: '2016-01-19T16:36:18.939Z'
+datePublished: '2016-02-01T16:19:39.075Z'
+dateModified: '2016-02-01T16:19:33.918Z'
 title: "Sub 3hr marathon training, Spring '16"
 author: []
 sourcePath: _posts/2016-01-12-preparing-for-a-sub-3hr-marathon-spring-2016.md
@@ -56,6 +56,12 @@ Lesson learnt from last week, **Monday** was a short recovery 3.3mile run with H
 
 ## 12 Weeks to Brighton
 
-Officially this is known as a recovery week but still involves 37miles of running.  **Monday - **Brr it was cold! minus 2 when I got back from doing a 3.5mile slow jog with Hadlow runners I also had Rusty with me.
+Officially this is known as a recovery week but still involves 37miles of running.  **Monday - **Brr it was cold! minus 2 when I got back from doing a 3.5mile slow jog with Hadlow runners I also had Rusty with me. The rest of the week went to plan, with a total of 34miles.
+
+## 11 Weeks to Brighton 
+
+This was the first week of of the next mesocycle; a 5 week block that focus's on 'Lactate Threshold and Endurance' basically a lot of long runs and a lot of pain! This is the block where we train for mental toughness. The weekend previous I did something to my shoulder which means that it really hurts when running. Never the less the miles still need covering; 54 of them in-fact. I was out on Tuesday evening so had to do a 10 mile threshold run from the office at lunch time. The weather was appalling with wind and rain and the run hurt like hell, I wasn't able to keep pace under marathon pace due to the conditions but pushed myself hard. Thursdays medium long run was relatively easy and I had Friday off from swimming in a hope that my shoulder would appreciated the recovery time. Sunday's Long run was an 18 miler which I did as an interval run. with 5 sets of 1 mile MP & 2 miles 20% slower than MP. It was the first run that I have done this session with a hydration pack, rather that just water I put together a drink of squash with 80g of castor sugar (1 letre). I am not sure if it was the fluids or the slower paced sections, but I felt strong at the end which was a 1st! 
+
+## 10 weeks to Brighton      
 
 [0]: https://docs.google.com/spreadsheets/d/1Cl_DvZj82hFzsy6fQGn1vheRfsPbCElqLrpQEggV7OY/edit?usp=sharing
