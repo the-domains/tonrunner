@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'This is my scrapbook of all things that interest, amuse, fascinate and inspire me in the world of swimming, cycling and running. I could have done it on facebook but all my friends and family are probably sick to death of my constant witterings and ramblings.'
-datePublished: '2016-01-30T14:40:10.044Z'
-dateModified: '2016-01-30T14:40:07.094Z'
+datePublished: '2016-02-01T15:56:53.586Z'
+dateModified: '2016-02-01T15:56:49.159Z'
 title: TonRunner
 author: []
 sourcePath: _posts/2015-11-20-anthony-lester.md
