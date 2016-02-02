@@ -1,6 +1,6 @@
 name: TonRunner
 favicon: null
-layout_spectrum: 0.62745
+layout_spectrum: 0.60443
 typography_spectrum: 0.40109
 title: 'Swim | Cycle | Run'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#f2f2f4'
     - '#434554'
     - '#efb642'
-  brandStrength: 0.0625
+  brandStrength: 0.375
   lightness: 0.5
-  saturation: 0.0625
+  saturation: 0.5625
   rhythmicContrast: 1
 purpose: []
