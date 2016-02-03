@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 09:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 09:20:19 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Run Tip#2]]]></title>
+            <description><![CDATA[<article><h1>[Run Tip#2]</h1><p>Five 'big' steps to make you a better runner</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/878614121de7eba1744e5a956851030c8f12e954.png"></article>]]></description>
+            <link>http://tonrunner.uk/run-tip2/index.html</link>
+            <guid isPermaLink="false">d97cc3b2-fc9f-43c3-9196-cb8e4b8a8f99</guid>
+            <pubDate>Wed, 03 Feb 2016 09:20:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How you can join in the fun at this year's Tunbridge Wells Half Marathon]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.racetothestones.com/</link>
             <guid isPermaLink="false">db792c48-5142-47af-9cd3-3097a6e7fe66</guid>
             <pubDate>Sat, 30 Jan 2016 14:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016 Race Schedule]]></title>
-            <description><![CDATA[<article><h1>2016 Race Schedule</h1><p>I like competing, I never used to but I have found more and more that I do. It maybe that I have come to accept that I am not really competing against anyone else merely against myself; can I go further faster or higher than I have done before. I think it also comes with the realisation that there is always going to be somebody better than you. </p></article>]]></description>
-            <link>http://tonrunner.uk/2016-race-list/index.html</link>
-            <guid isPermaLink="false">9992db98-edef-4ff6-b121-dd52015e3fd2</guid>
-            <pubDate>Tue, 02 Feb 2016 09:25:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
