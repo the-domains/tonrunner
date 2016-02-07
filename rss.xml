@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 11:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 09:08:25 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Find Zen Through Running]]></title>
+            <description><![CDATA[<article><h1>Find Zen Through Running</h1><p>Buddhists have a way to tame those animals: meditation. This ancient practice is traditionally done while sitting and focusing on your breathing to achieve peace of mind. But more and more runners are learning how to clear out the commotion while on roads and trails, thanks in part to Sakyong Jamgon Mipham Rinpoche, spiritual leader of a global network of Shambhala Centers (meditation meeting places).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ea0ddf07cb1eca55d8436ac3ff91dc61efaef8c.jpg"></article>]]></description>
+            <link>http://www.runnersworld.com/sports-psychology/find-zen-through-running?cid=soc_Runner%27s%20World%20Magazine_GOOGLE_PLUS_PAGE_Runner%E2%80%99s%20World__Motivation_RunningTips</link>
+            <guid isPermaLink="false">58be1e94-6bd6-43a1-bfd5-ba2068325586</guid>
+            <pubDate>Sun, 07 Feb 2016 09:08:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Standard Distance:1900m swim, 40km Ride, 10km Bike]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[[Run Tip#2]]]></title>
-            <description><![CDATA[<article><h1>[Run Tip#2]</h1><p>Five 'big' steps to make you a better runner; nobody said it was going to be easy, but if you if you can go some way to achieve these steps you become a stronger runner and running will become more enjoyable. As with every change start with little steps and grow into the habit. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f86321544e9b8cd0657b8ddd174e552cc7380ec.png"></article>]]></description>
+            <description><![CDATA[<article><h1>[Run Tip#2]</h1><p>Five 'big' steps to make you a better runner; nobody said it was going to be easy, but if you if you can go some way to achieve these steps you become a stronger runner and running will become more enjoyable. As with every change start with little steps and grow into the habit. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32be8f9a6e68a6017019ecd955847e4a77f50e84.png"></article>]]></description>
             <link>http://tonrunner.uk/run-tip2/index.html</link>
             <guid isPermaLink="false">d97cc3b2-fc9f-43c3-9196-cb8e4b8a8f99</guid>
             <pubDate>Wed, 03 Feb 2016 11:19:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.nbcnews.com/slideshow/lazy-dog-crashes-half-marathon-finishes-seventh-n504091</link>
             <guid isPermaLink="false">a329f9ab-6f0c-40f1-b24c-a9115d24bcfd</guid>
             <pubDate>Wed, 27 Jan 2016 21:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 25 Golden Rules of Running]]></title>
-            <description><![CDATA[<article><h1>The 25 Golden Rules of Running</h1><p>The most effective training mimics the event for which you're training. This is the cardinal rule of training for any activity. If you want to run a 10-K at seven-minute-per-mile pace, you need to do some running at that pace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6da68eeb376d879affd5f07579ae9ef96d5c632.jpg"></article>]]></description>
-            <link>http://www.runnersworld.com/running-tips/the-25-golden-rules-of-running?cid=soc_runnersworld_TWITTER_Runner%E2%80%99s%20World__Motivation_RunningTips</link>
-            <guid isPermaLink="false">5e457955-fd1f-4022-a48d-7048b9d88686</guid>
-            <pubDate>Mon, 25 Jan 2016 22:30:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
