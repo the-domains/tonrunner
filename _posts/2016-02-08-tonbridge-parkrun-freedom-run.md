@@ -1,14 +1,10 @@
 ---
-author:
-  - name: copy7t
-    url: 'https://www.youtube.com/user/copy7t'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/eCU2NCG-Vxg'
+inLanguage: en
+starred: false
 keywords:
   - parkrun
   - duration
@@ -20,8 +16,14 @@ keywords:
   - park
   - '103'
   - '2013'
-description: Uploaded by copy7t on 2015-04-11.
-inLanguage: en
+description: "A video produced by Steven Stockwell running the Tonbridge parkrun course in Spring '15"
+datePublished: '2016-02-08T09:18:49.679Z'
+dateModified: '2016-02-08T09:18:46.439Z'
+author:
+  - name: copy7t
+    url: 'https://www.youtube.com/user/copy7t'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=eCU2NCG-Vxg&feature=applinks'
     type: ios
@@ -33,17 +35,21 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=eCU2NCG-Vxg&feature=applinks'
     type: web
-isBasedOnUrl: 'https://youtu.be/eCU2NCG-Vxg'
-title: Tonbridge parkrun (freedom run)
-datePublished: '2016-02-08T08:49:08.112Z'
-dateModified: '2016-02-07T12:39:58.963Z'
+title: Tonbridge parkrun
 sourcePath: _posts/2016-02-08-tonbridge-parkrun-freedom-run.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FeCU2NCG-Vxg%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeCU2NCG-Vxg%26feature%3Dyoutu.be&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeCU2NCG-Vxg%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+# Tonbridge parkrun
+
+A video produced by Steven Stockwell running the Tonbridge parkrun course as a freedom run in Spring '15
