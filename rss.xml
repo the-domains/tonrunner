@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 09:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 08:50:07 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tonbridge parkrun (freedom run)]]></title>
+            <description><![CDATA[<article><h1>Tonbridge parkrun (freedom run)</h1><p>Uploaded by copy7t on 2015-04-11.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c8d95f64be9b363232bebb938b86bba0556d56b.jpg"></article>]]></description>
+            <link>https://youtu.be/eCU2NCG-Vxg</link>
+            <guid isPermaLink="false">4e06e94e-0e9f-4f47-843c-e12da7b42f1c</guid>
+            <pubDate>Mon, 08 Feb 2016 08:49:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Find Zen Through Running]]></title>
-            <description><![CDATA[<article><h1>Find Zen Through Running</h1><p>Buddhists have a way to tame those animals: meditation. This ancient practice is traditionally done while sitting and focusing on your breathing to achieve peace of mind. But more and more runners are learning how to clear out the commotion while on roads and trails, thanks in part to Sakyong Jamgon Mipham Rinpoche, spiritual leader of a global network of Shambhala Centers (meditation meeting places).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ea0ddf07cb1eca55d8436ac3ff91dc61efaef8c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Find Zen Through Running</h1><p>Buddhists have a way to tame those animals: meditation. This ancient practice is traditionally done while sitting and focusing on your breathing to achieve peace of mind. But more and more runners are learning how to clear out the commotion while on roads and trails, thanks in part to Sakyong Jamgon Mipham Rinpoche, spiritual leader of a global network of Shambhala Centers (meditation meeting places).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a626cfb3a65e5906a9c701fe58789884681cfa3.jpg"></article>]]></description>
             <link>http://www.runnersworld.com/sports-psychology/find-zen-through-running?cid=soc_Runner%27s%20World%20Magazine_GOOGLE_PLUS_PAGE_Runner%E2%80%99s%20World__Motivation_RunningTips</link>
             <guid isPermaLink="false">58be1e94-6bd6-43a1-bfd5-ba2068325586</guid>
             <pubDate>Sun, 07 Feb 2016 09:08:21 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=slTNf0sweD8</link>
             <guid isPermaLink="false">1414fed5-6427-4a38-9790-c579ae9d3b77</guid>
             <pubDate>Sat, 30 Jan 2016 14:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Lazy' Dog Crashes Half Marathon, Finishes Seventh]]></title>
-            <description><![CDATA[<article><h1>'Lazy' Dog Crashes Half Marathon, Finishes Seventh</h1><p>What started as a typical half-marathon ended as anything but when a hound dog joined the race and snagged a seventh-place finish. According to Runner's World, the 2-and-a-half-year-old hound dog named Ludivine slipped away from her backyard the morning of Jan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1523c70696cc37888f75433b76d5a625c3d8de2c.jpg"></article>]]></description>
-            <link>http://www.nbcnews.com/slideshow/lazy-dog-crashes-half-marathon-finishes-seventh-n504091</link>
-            <guid isPermaLink="false">a329f9ab-6f0c-40f1-b24c-a9115d24bcfd</guid>
-            <pubDate>Wed, 27 Jan 2016 21:51:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
