@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 16:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 18:02:30 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[2016 Race Schedule]]></title>
+            <description><![CDATA[<article><h1>2016 Race Schedule</h1><p>I like competing, I never used to but I have found more and more that I do. It maybe that I have come to accept that I am not really competing against anyone else merely against myself; can I go further faster or higher than I have done before. I think it also comes with the realisation that there is always going to be somebody better than you. </p></article>]]></description>
+            <link>http://tonrunner.uk/2016-race-list/index.html</link>
+            <guid isPermaLink="false">9992db98-edef-4ff6-b121-dd52015e3fd2</guid>
+            <pubDate>Wed, 10 Feb 2016 18:02:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is The Gamification Of Fitness A Bad Thing?]]></title>
-            <description><![CDATA[<article><h1>Is The Gamification Of Fitness A Bad Thing?</h1><p>We get it: It's not necessarily fun to exercise. Although it's great to have a mindset where you enjoy being active, many people would much rather spend time relaxing on their couch than hitting the gym or going for a run.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26144508595c9143fbc59a42158ada9d614c9ca0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Is The Gamification Of Fitness A Bad Thing?</h1><p>We get it: It's not necessarily fun to exercise. Although it's great to have a mindset where you enjoy being active, many people would much rather spend time relaxing on their couch than hitting the gym or going for a run.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/700934bff32761b578de9ba74b928e56e9a3b193.jpg"></article>]]></description>
             <link>http://triathlete-europe.competitor.com/2016/02/08/is-the-gamification-of-fitness-a-bad-thing</link>
             <guid isPermaLink="false">4d527acb-f4cb-4587-8ba9-9ba31a8c2078</guid>
             <pubDate>Wed, 10 Feb 2016 16:12:10 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://tonrunner.uk/preparing-for-a-sub-3hr-marathon-spring-2016/index.html</link>
             <guid isPermaLink="false">1e8bbc06-25da-4200-a395-30bf5dc60eda</guid>
             <pubDate>Mon, 01 Feb 2016 16:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Christmas Holidays running and swimming playground. ]]></title>
-            <description><![CDATA[<article><h1>Christmas Holidays running and swimming playground. </h1><p>#Sunset # Buzios #Brazil '15</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2796c31adec5f4a368e0e23d95b5ad70afc9c80.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/_hPLGiB4SL/</link>
-            <guid isPermaLink="false">c8fcfc3b-3081-45b5-bea1-3c2d47e94318</guid>
-            <pubDate>Sun, 31 Jan 2016 14:29:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
