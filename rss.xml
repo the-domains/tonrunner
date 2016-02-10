@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 09:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 11:19:04 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is The Gamification Of Fitness A Bad Thing? - Triathlete Europe]]></title>
+            <description><![CDATA[<article><h1>Is The Gamification Of Fitness A Bad Thing? - Triathlete Europe</h1><p>We get it: It's not necessarily fun to exercise. Although it's great to have a mindset where you enjoy being active, many people would much rather spend time relaxing on their couch than hitting the gym or going for a run.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26144508595c9143fbc59a42158ada9d614c9ca0.jpg"></article>]]></description>
+            <link>http://triathlete-europe.competitor.com/2016/02/08/is-the-gamification-of-fitness-a-bad-thing</link>
+            <guid isPermaLink="false">4d527acb-f4cb-4587-8ba9-9ba31a8c2078</guid>
+            <pubDate>Wed, 10 Feb 2016 11:18:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tonbridge parkrun]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/_hPLGiB4SL/</link>
             <guid isPermaLink="false">c8fcfc3b-3081-45b5-bea1-3c2d47e94318</guid>
             <pubDate>Sun, 31 Jan 2016 14:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Running Motivation]]></title>
-            <description><![CDATA[<article><h1>Running Motivation</h1><p>5 Ways A Morning Run Will Change Your Life</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/998f7b8cbf9ed6acf348c2ddf121ccc0a558e7b5.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=slTNf0sweD8</link>
-            <guid isPermaLink="false">1414fed5-6427-4a38-9790-c579ae9d3b77</guid>
-            <pubDate>Sat, 30 Jan 2016 14:11:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
