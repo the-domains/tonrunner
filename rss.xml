@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 18:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 08:48:04 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[10 Moves to Keep You Healthy]]></title>
+            <description><![CDATA[<article><h1>10 Moves to Keep You Healthy</h1><p>Any weakness in your kinetic chain can compromise your form, leading to gait changes that increase your risk of getting hurt. Plus, strong muscles absorb more of the force that occurs when you strike the ground, meaning less of it remains to damage your bones, joints, and ligaments.</p></article>]]></description>
+            <link>http://www.runnersworld.com/strength-training/10-moves-to-keep-you-healthy?cid=soc_runnersworld_TWITTER_Runner%E2%80%99s%20World__Fitness</link>
+            <guid isPermaLink="false">b9276114-90e1-4291-9637-ae93b8f1e8b9</guid>
+            <pubDate>Mon, 15 Feb 2016 08:47:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2016 Race Schedule]]></title>
-            <description><![CDATA[<article><h1>2016 Race Schedule</h1><p>I like competing, I never used to but I have found more and more that I do. It maybe that I have come to accept that I am not really competing against anyone else merely against myself; can I go further faster or higher than I have done before. I think it also comes with the realisation that there is always going to be somebody better than you. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b49868d32e6204566873a8293047c9bed5d3231.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>2016 Race Schedule</h1><p>I like competing, I never used to but I have found more and more that I do. It maybe that I have come to accept that I am not really competing against anyone else merely against myself; can I go further faster or higher than I have done before. I think it also comes with the realisation that there is always going to be somebody better than you. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e291c9a1e5bb0b8d795676320e6c26daaf39dd4.jpg"></article>]]></description>
             <link>http://tonrunner.uk/2016-race-list/index.html</link>
             <guid isPermaLink="false">9992db98-edef-4ff6-b121-dd52015e3fd2</guid>
             <pubDate>Wed, 10 Feb 2016 18:14:56 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/alydixon262/status/694194979770613760</link>
             <guid isPermaLink="false">b2e9a41a-a57f-49a9-aab3-7483232ae068</guid>
             <pubDate>Tue, 02 Feb 2016 08:56:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11 Weeks to Brighton ]]></title>
-            <description><![CDATA[<article><h1>11 Weeks to Brighton </h1><h2>10 weeks to Brighton      </h2><p>One of the many things I have learned about running and in particular training,  over the last five years is that you can only succeed if you have a goal. If you don't have a goal there is no incentive to train 'hard'. I use the term 'hard' because I actually enjoy running and would more than happily just go for a jog in the countryside, but that is not training. What I mean is having the discipline to go out when the weather is lashing it down, pushing yourself for that last 2miles of a threshold run when it would be so easy to pack it in early, after all who is ever going to know?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a51598d1c3bba9ed5d1f0e973c9029afc8e9bb34.jpg"></article>]]></description>
-            <link>http://tonrunner.uk/preparing-for-a-sub-3hr-marathon-spring-2016/index.html</link>
-            <guid isPermaLink="false">1e8bbc06-25da-4200-a395-30bf5dc60eda</guid>
-            <pubDate>Mon, 01 Feb 2016 16:19:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
