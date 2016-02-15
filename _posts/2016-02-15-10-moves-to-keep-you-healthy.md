@@ -16,9 +16,9 @@ keywords:
   - next
   - side
   - repeat
-description: 'Any weakness in your kinetic chain can compromise your form, leading to gait changes that increase your risk of getting hurt. Plus, strong muscles absorb more of the force that occurs when you strike the ground, meaning less of it remains to damage your bones, joints, and ligaments.'
-datePublished: '2016-02-15T09:10:31.713Z'
-dateModified: '2016-02-15T09:10:29.625Z'
+description: ''
+datePublished: '2016-02-15T09:16:10.674Z'
+dateModified: '2016-02-15T09:16:08.287Z'
 author: []
 related: []
 app_links: []
@@ -37,4 +37,4 @@ _type: MediaObject
 ---
 <article style=""><h1>10 Moves to Keep You Healthy</h1></article>
 
-> Any weakness in your kinetic chain can compromise your form, leading to gait changes that increase your risk of getting hurt. Plus, strong muscles absorb more of the force that occurs when you strike the ground, meaning less of it remains to damage your bones, joints, and ligaments.
+> Any weakness in your kinetic chain can compromise your form, leading to gait changes that increase your risk of getting hurt. Plus, strong muscles absorb more of the force that occurs when you strike the ground, meaning less of it remains to damage your bones, joints, and ligaments
