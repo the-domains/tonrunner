@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'An attempt at a blog detailing some of my experiences as I prepare for a sub 3 hour marathon  '
-datePublished: '2016-02-01T16:19:39.103Z'
-dateModified: '2016-02-01T16:19:33.918Z'
+datePublished: '2016-02-15T15:18:32.846Z'
+dateModified: '2016-02-15T15:18:30.066Z'
 title: "Sub 3hr marathon training, Spring '16"
 author: []
 sourcePath: _posts/2016-01-12-preparing-for-a-sub-3hr-marathon-spring-2016.md
@@ -62,6 +62,12 @@ Officially this is known as a recovery week but still involves 37miles of runnin
 
 This was the first week of of the next mesocycle; a 5 week block that focus's on 'Lactate Threshold and Endurance' basically a lot of long runs and a lot of pain! This is the block where we train for mental toughness. The weekend previous I did something to my shoulder which means that it really hurts when running. Never the less the miles still need covering; 54 of them in-fact. I was out on Tuesday evening so had to do a 10 mile threshold run from the office at lunch time. The weather was appalling with wind and rain and the run hurt like hell, I wasn't able to keep pace under marathon pace due to the conditions but pushed myself hard. Thursdays medium long run was relatively easy and I had Friday off from swimming in a hope that my shoulder would appreciated the recovery time. Sunday's Long run was an 18 miler which I did as an interval run. with 5 sets of 1 mile MP & 2 miles 20% slower than MP. It was the first run that I have done this session with a hydration pack, rather that just water I put together a drink of squash with 80g of castor sugar (1 letre). I am not sure if it was the fluids or the slower paced sections, but I felt strong at the end which was a 1st! 
 
-## 10 weeks to Brighton      
+## 10 & 9 weeks to Brighton
+
+So the reason for limited updates has been mostly down to pure frustration. Week ten I had the injury to my shoulder started to get better with continued stretches and  moving my watch to my right arm. I got my mid week runs done with no major issues except my shoulder, however on the Friday Threshold run I started to feel the beginnings of a cold, my wife had one the week previous so I was kind of expecting it, anyway managed to run on the Saturday but Sunday was really snotty and bunged up. I could have probably run but run the risk of the cold getting worse. As it was in week 9 the cold subsided quite quickly I managed to get out for a short run on the Monday and then a comfortable run on Tuesday with no pain in my shoulder and the cold almost gone. Unfortunately straight after my Tuesday run I went and picked up my daughter from gymnastics. Part of the pick-up involves putting all the equipment away. My back felt a bit sore after that but when I woke the next morning I was in a lot of pain! Needless to say I missed the rest of the runs this week. I did however mange a 2mile swim on the Friday and Sunday with a 3mile 'testing the water' jog on the Sunday. 
+
+## 8 weeks to Brighton 
+
+This weeks starts with my back still in pain and a visit to the physio - something that I have never done before. - things must be serious!      
 
 [0]: https://docs.google.com/spreadsheets/d/1Cl_DvZj82hFzsy6fQGn1vheRfsPbCElqLrpQEggV7OY/edit?usp=sharing
