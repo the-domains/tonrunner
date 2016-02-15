@@ -17,8 +17,8 @@ keywords:
   - side
   - repeat
 description: ''
-datePublished: '2016-02-15T14:34:32.309Z'
-dateModified: '2016-02-15T14:34:29.983Z'
+datePublished: '2016-02-15T14:41:07.703Z'
+dateModified: '2016-02-15T14:40:58.111Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>10 Moves to Keep You Healthy</h1></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a7d206e-5771-44e2-9551-9c4cb77682d0.jpg)
 
 > Any weakness in your kinetic chain can compromise your form, leading to gait changes that increase your risk of getting hurt. Plus, strong muscles absorb more of the force that occurs when you strike the ground, meaning less of it remains to damage your bones, joints, and ligaments.
