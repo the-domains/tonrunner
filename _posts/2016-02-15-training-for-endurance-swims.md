@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'As long as you can maintain an average 100m swim pace of around 3 mins 40 seconds for the full 3.8km distance you will make the swim cut off. However, a swimmer swimming at this pace for this duration will be very inefficient in the water, the more efficient you can be on the swim leg the more energy you will conserve for the following bike and run, and given the challenging nature of the course for The Bastion you are going to need it!'
-datePublished: '2016-02-16T08:55:35.786Z'
-dateModified: '2016-02-16T08:55:28.672Z'
-title: ' '
+datePublished: '2016-02-16T09:03:53.617Z'
+dateModified: '2016-02-16T09:03:50.985Z'
+title: Training for endurance swims
 author: []
 sourcePath: _posts/2016-02-15-training-for-endurance-swims.md
 published: true
@@ -22,7 +22,7 @@ url: training-for-endurance-swims/index.html
 _type: Article
 
 ---
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/236836f2-bd14-4cb4-8572-617c568d8773.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/236836f2-bd14-4cb4-8572-617c568d8773.jpg)
 
 # Training for endurance swims
 
