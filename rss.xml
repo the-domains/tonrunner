@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TonRunner]]></title>
-        <description><![CDATA[TonRunner]]></description>
+        <title><![CDATA[Swim | Cycle | Run]]></title>
+        <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 09:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 14:11:31 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brighton Half Marathon 2016]]></title>
+            <description><![CDATA[<article><h1>Brighton Half Marathon 2016</h1><p>Sunday 28th February, this is the sixth consecutive year that I have run the Brighton Half, indeed this race was my first ever race over 10km. That first race was wet cold, blowing a gale and utterly miserable; it was so bad that at one stage I was going to quit it was only the fact that I was at the furthest part of the course and that I would have had to cover the ground anyway that I carried on. That was 6 years ago and thankfully we haven't had repeat of those weather conditions since. This Sunday was no exception, chilly yes but otherwise almost perfect running conditions. I say chilly as I parked the car the temperature gauge read 3 degrees; tights were a definite but I was still yet to make a decision on the long sleeve top.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52dd9f3ba960610b164e4d74c22ecfb4b769c06f.jpg"></article>]]></description>
+            <link>http://tonrunner.uk/brighton-half-marathon-2016/index.html</link>
+            <guid isPermaLink="false">030e6cd0-608c-4f17-8e2d-0d2b88d685f3</guid>
+            <pubDate>Tue, 01 Mar 2016 14:09:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -70,13 +77,6 @@ complete the swim in 60-70 minutes. </p></article>]]></description>
             <link>http://www.runnersworld.com/strength-training/10-moves-to-keep-you-healthy?cid=soc_runnersworld_TWITTER_Runner%E2%80%99s%20World__Fitness</link>
             <guid isPermaLink="false">b9276114-90e1-4291-9637-ae93b8f1e8b9</guid>
             <pubDate>Mon, 15 Feb 2016 14:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016 Race Schedule]]></title>
-            <description><![CDATA[<article><h1>2016 Race Schedule</h1><p>I like competing, I never used to but I have found more and more that I do. It maybe that I have come to accept that I am not really competing against anyone else merely against myself; can I go further faster or higher than I have done before. I think it also comes with the realisation that there is always going to be somebody better than you. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e291c9a1e5bb0b8d795676320e6c26daaf39dd4.jpg"></article>]]></description>
-            <link>http://tonrunner.uk/2016-race-list/index.html</link>
-            <guid isPermaLink="false">9992db98-edef-4ff6-b121-dd52015e3fd2</guid>
-            <pubDate>Wed, 10 Feb 2016 18:14:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
