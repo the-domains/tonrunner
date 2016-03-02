@@ -17,12 +17,12 @@ keywords:
   - footwear
   - masochistic
 description: 'TRENDY barefoot running is the perfect combination of misery, showing off and pain, according to exercise fanatics. Running without footwear supposedly improves performance, although the key benefits to fitness obsessives are proving how hard they are and making people stare at them.'
-datePublished: '2016-03-02T08:47:20.310Z'
-dateModified: '2016-03-02T08:47:06.652Z'
+datePublished: '2016-03-02T18:34:28.151Z'
+dateModified: '2016-03-02T08:48:27.018Z'
 author: []
 related: []
 app_links: []
-title: 'Barefoot running just the sort of mental thing we wanted, say fitness freaks'
+title: 'LOL! Barefoot running just the sort of mental thing we wanted, say fitness freaks'
 sourcePath: _posts/2016-03-01-barefoot-running-just-the-sort-of-mental-thing-we-wanted-sa.md
 published: true
 authors: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Barefoot running just the sort of mental thing we wanted&amp;comma; say fitness freaks</h1><p>TRENDY barefoot running is the perfect combination of misery&amp;comma; showing off and pain&amp;comma; according to exercise fanatics&amp;period; Running without footwear supposedly improves performance&amp;comma; although the key benefits to fitness obsessives are proving how hard they are and making people stare at them&amp;period;</p><img src="http://i0.wp.com/www.thedailymash.co.uk/images/stories/runner425.jpg?resize=425%2C265" /></article>
+<article style=""><h1>LOL: Barefoot running just the sort of mental thing we wanted, say fitness freaks</h1><p>TRENDY barefoot running is the perfect combination of misery, showing off and pain, according to exercise fanatics. Running without footwear supposedly improves performance, although the key benefits to fitness obsessives are proving how hard they are and making people stare at them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1e0cbdaa5b843ca9354d6ade9747f047e8b9b1e.jpg" /></article>
