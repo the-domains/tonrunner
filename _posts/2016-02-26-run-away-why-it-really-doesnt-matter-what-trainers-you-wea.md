@@ -1,14 +1,10 @@
 ---
-author:
-  - name: David Bradford
-    url: 'http://www.theguardian.com/profile/david-bradford'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.theguardian.com'
-  name: the Guardian
-  favicon: 'https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico'
-  domain: www.theguardian.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.theguardian.com/lifeandstyle/the-running-blog/2016/feb/25/run-away-why-it-really-doesnt-matter-what-trainers-you-wear'
+inLanguage: en
+starred: false
 keywords:
   - barefoot
   - shoe
@@ -21,7 +17,13 @@ keywords:
   - interviewee
   - natural
 description: "I'm not averse to running: I run most days, for fitness and fresh air, and because it's healthier than drugs for enhancing one's mood. It's sociable, too: I've made good friends through my local running club. But certain social aspects of this pastime bore me to the brink of despair, and top of the tree of tedium is trash-talk about shoes."
-inLanguage: en
+datePublished: '2016-03-02T18:35:04.364Z'
+dateModified: '2016-02-26T14:09:49.143Z'
+author:
+  - name: David Bradford
+    url: 'http://www.theguardian.com/profile/david-bradford'
+    avatar: {}
+related: []
 app_links:
   - url: 'gnmguardian://lifeandstyle/the-running-blog/2016/feb/25/run-away-why-it-really-doesnt-matter-what-trainers-you-wear?contenttype=Article&source=applinks'
     type: ios
@@ -47,15 +49,15 @@ app_links:
     package: '409128287'
     namespace: google
     type: ios
-isBasedOnUrl: 'http://www.theguardian.com/lifeandstyle/the-running-blog/2016/feb/25/run-away-why-it-really-doesnt-matter-what-trainers-you-wear'
 title: "Run away! Why it really doesn't matter what trainers you wear"
-datePublished: '2016-02-26T14:09:40.843Z'
-dateModified: '2016-02-26T14:08:37.431Z'
 sourcePath: _posts/2016-02-26-run-away-why-it-really-doesnt-matter-what-trainers-you-wea.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: the Guardian
+  domain: www.theguardian.com
+  url: 'http://www.theguardian.com'
+  favicon: 'https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
