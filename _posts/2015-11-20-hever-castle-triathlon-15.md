@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Racing the standard (Olympic) distance triathlon at Hever Castle, Kent'
-datePublished: '2016-02-03T10:20:12.888Z'
-dateModified: '2016-02-03T10:20:09.521Z'
+datePublished: '2016-03-07T13:52:28.644Z'
+dateModified: '2016-03-07T13:52:03.072Z'
 title: "Hever Castle Triathlon '15"
 author: []
 sourcePath: _posts/2015-11-20-hever-castle-triathlon-15.md
@@ -28,4 +28,8 @@ _type: Article
 
 A beautiful but challenging course for my first standard distance triathlon. Posted a 2hr32min time which put me in 64th position out of about 800 so happy with that.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf261f279ce2a7fffcbae559ac725ede5bfc5c28.jpg)
+
+Swim Exit
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4a6c603ad9c3ae255e9ce990094287666b48a4b.jpg)
+
+Pre-race photo with my brother.
