@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 13:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 14:23:07 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[parkrun #118]]></title>
+            <description><![CDATA[<article><h1>parkrun #118</h1><p>The apricot T-shirt gets a run out in the sun for the first time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9466e77f06846d736a2f7c4fb204039adcc83315.jpg"></article>]]></description>
+            <link>http://tonrunner.uk/016d06d6-995b-4d08-9cb7-b37899766b77/index.html</link>
+            <guid isPermaLink="false">016d06d6-995b-4d08-9cb7-b37899766b77</guid>
+            <pubDate>Mon, 07 Mar 2016 14:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Standard Distance:1900m swim, 40km Ride, 10km Bike]]></title>
@@ -68,15 +75,6 @@
             <link>http://tonrunner.uk/preparing-for-a-sub-3hr-marathon-spring-2016/index.html</link>
             <guid isPermaLink="false">1e8bbc06-25da-4200-a395-30bf5dc60eda</guid>
             <pubDate>Mon, 15 Feb 2016 15:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building Endurance ]]></title>
-            <description><![CDATA[<article><h1>Building Endurance </h1><p>In the Bastion you have 2 hrs and 20 minutes to complete the swim leg followed by a further
-10 minutes in the first transition to the bike. An average age group swimmer will generally
-complete the swim in 60-70 minutes. </p></article>]]></description>
-            <link>http://tonrunner.uk/training-for-endurance-swims/index.html</link>
-            <guid isPermaLink="false">8b6f5b47-53ba-4f0e-880f-67413a0a332a</guid>
-            <pubDate>Tue, 16 Feb 2016 09:03:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
