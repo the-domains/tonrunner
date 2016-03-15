@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Racing the standard (Olympic) distance triathlon at Hever Castle, Kent'
-datePublished: '2016-03-07T13:52:28.644Z'
-dateModified: '2016-03-07T13:52:03.072Z'
+datePublished: '2016-03-15T16:00:28.882Z'
+dateModified: '2016-03-07T15:54:24.014Z'
 title: "Hever Castle Triathlon '15"
 author: []
 sourcePath: _posts/2015-11-20-hever-castle-triathlon-15.md
