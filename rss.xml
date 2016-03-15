@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 12:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 16:00:21 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Run Tip#2]]]></title>
+            <description><![CDATA[<article><h1>[Run Tip#2]</h1><p>Five 'big' steps to make you a better runner; nobody said it was going to be easy, but if you if you can go some way to achieve these steps you become a stronger runner and running will become more enjoyable. As with every change start with little steps and grow into the habit. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32be8f9a6e68a6017019ecd955847e4a77f50e84.png"></article>]]></description>
+            <link>http://tonrunner.uk/run-tip2/index.html</link>
+            <guid isPermaLink="false">d97cc3b2-fc9f-43c3-9196-cb8e4b8a8f99</guid>
+            <pubDate>Tue, 15 Mar 2016 15:59:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My 100th parkrun]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/lifeandstyle/the-running-blog/2016/feb/25/run-away-why-it-really-doesnt-matter-what-trainers-you-wear</link>
             <guid isPermaLink="false">21537e71-8312-4cfa-b44a-cf1e58a48fa4</guid>
             <pubDate>Wed, 02 Mar 2016 18:35:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Art - And Science - of Marathon Pacing]]></title>
-            <description><![CDATA[<article><h1>The Art - And Science - of Marathon Pacing</h1><p>Why we hit the wall in marathons, and how not to. My first marathon was the 1999 California International Marathon in Sacramento.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47be118a6f5d092720af6a08e528e444c1e85a13.jpg"></article>]]></description>
-            <link>http://running.competitor.com/2013/08/training/the-art-and-science-of-marathon-pacing_16984</link>
-            <guid isPermaLink="false">276793f7-df5c-4571-b2b1-b465ae4454ef</guid>
-            <pubDate>Wed, 17 Feb 2016 13:57:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
