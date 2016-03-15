@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 16:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 16:24:38 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Burn Fat While Running]]></title>
+            <description><![CDATA[<article><h1>How To Burn Fat While Running</h1><p>Who are you? I mean, what kind of runner are you? Are you usually looking forward to a run and enjoying the movement while out on the road? Or are you glad to hit the shower afterwards, with the feeling of having done your body some good?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15b8296ef7b8b6536e8ec1dbb4891564c8f2a54d.jpg"></article>]]></description>
+            <link>https://www.runtastic.com/blog/en/veras-viewpoint/how-to-burn-fat-while-running/</link>
+            <guid isPermaLink="false">465952b3-d634-4592-8858-0d7169f307c6</guid>
+            <pubDate>Tue, 15 Mar 2016 16:24:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[Run Tip#2]]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/astro_timpeake/status/704440734502526977</link>
             <guid isPermaLink="false">8025ca91-b539-4f00-972b-ab36249185a0</guid>
             <pubDate>Wed, 02 Mar 2016 18:35:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Run away! Why it really doesn't matter what trainers you wear]]></title>
-            <description><![CDATA[<article><h1>Run away! Why it really doesn't matter what trainers you wear</h1><p>I'm not averse to running: I run most days, for fitness and fresh air, and because it's healthier than drugs for enhancing one's mood. It's sociable, too: I've made good friends through my local running club. But certain social aspects of this pastime bore me to the brink of despair, and top of the tree of tedium is trash-talk about shoes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c2bd9800caab1775c2c0c5bc8e09655f6c4e42e.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/lifeandstyle/the-running-blog/2016/feb/25/run-away-why-it-really-doesnt-matter-what-trainers-you-wear</link>
-            <guid isPermaLink="false">21537e71-8312-4cfa-b44a-cf1e58a48fa4</guid>
-            <pubDate>Wed, 02 Mar 2016 18:35:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
