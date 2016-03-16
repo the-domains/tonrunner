@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 17:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 08:55:06 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IF - Rudyard Kipling]]></title>
+            <description><![CDATA[<article><h1>IF - Rudyard Kipling</h1><p>Recitation by Sir Michael Caine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a4e577f115a20b1fc7be66a057250d5e9b5ddc2.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=JWvcwVWCcnY&amp;list=LLejBFiw6_UvUuKiYsfNwknA&amp;index=1</link>
+            <guid isPermaLink="false">840c823a-91d1-49e4-801a-a07c9061a492</guid>
+            <pubDate>Wed, 16 Mar 2016 08:54:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[If - Rudyard Kipling - Spoken By Tim Stiffler - Dean by anotherguy]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.thedailymash.co.uk/news/health/barefoot-running-just-the-sort-of-mental-thing-we-wanted-say-fitness-freaks-20160301106694</link>
             <guid isPermaLink="false">b81cab25-fd47-4d2b-ab7d-b88aed43ac9f</guid>
             <pubDate>Wed, 02 Mar 2016 18:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brighton Half Marathon 2016]]></title>
-            <description><![CDATA[<article><h1>Brighton Half Marathon 2016</h1><p>Sunday 28th February; this is the sixth consecutive year that I have run the Brighton Half, indeed this race was my first ever one over 10km. The weather that day was wet cold, blowing a gale and utterly miserable; it was so bad that at one stage I was going to quit it was only the fact that I was at the furthest part of the course and that I would have had to cover the ground anyway that I carried on. That was 6 years ago and thankfully we haven't had repeat of those weather conditions since. This Sunday was no exception, chilly yes but otherwise almost perfect running conditions. I say chilly as I parked the car the temperature gauge read 3 degrees; tights were a definite but I was still yet to make a decision on the long sleeve top.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52dd9f3ba960610b164e4d74c22ecfb4b769c06f.jpg"></article>]]></description>
-            <link>http://tonrunner.uk/brighton-half-marathon-2016/index.html</link>
-            <guid isPermaLink="false">030e6cd0-608c-4f17-8e2d-0d2b88d685f3</guid>
-            <pubDate>Wed, 02 Mar 2016 18:35:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
