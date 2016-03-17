@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=JWvcwVWCcnY&list=LLejBFiw6_UvUuKiYsfNwknA&index=1'
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - mullis
   - hopper
   - films
-description: Recitation by Sir Michael Caine
-datePublished: '2016-03-16T08:54:59.787Z'
-dateModified: '2016-03-16T08:54:51.928Z'
+description: "If you can keep your head when all about you \nAre losing theirs and blaming it on you,\nIf you can trust yourself when all men doubt you,\nBut make allowance for their doubting too;\nIf you can wait and not be tired by waiting,\nOr being lied about, don't deal in lies,\nOr being hated, don't give way to hating,\nAnd yet don't look too good, nor talk too wise:\_"
+datePublished: '2016-03-17T11:28:34.151Z'
+dateModified: '2016-03-17T11:27:49.214Z'
 author:
   - name: Arun Subramanian Venkataraman
     url: 'https://www.youtube.com/user/arunsubramanian'
@@ -62,14 +61,15 @@ app_links:
     namespace: google
     type: ios
 title: IF - Rudyard Kipling
+sourcePath: _posts/2016-03-16-if-rudyard-kipling.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-16-if-rudyard-kipling.md
-published: true
+url: if-rudyard-kipling/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
