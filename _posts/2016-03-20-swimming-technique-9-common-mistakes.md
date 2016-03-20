@@ -16,9 +16,9 @@ keywords:
   - good
   - stretched
   - triathletes
-description: "Training > Swim Tri swimming coach Annie Oberlin-Harris explains 9 common mistakes triathletes make in the swim and advice on how to correct them 1 Poor push offs leading to poor swimming posture Many athletes don't realise the importance of getting a good push off the wall in the pool, for not only is one of the advantages is it can carry you through the water about 5m, or 20% off a standard 25m pool, but can also set you up with the right posture for the rest of the swim (see below)."
-datePublished: '2016-03-20T20:06:02.930Z'
-dateModified: '2016-03-20T20:05:41.339Z'
+description: Swim Tri swimming coach Annie Oberlin-Harris explains 9 common mistakes triathletes make in the swim and advice on how to correct them.
+datePublished: '2016-03-20T20:08:15.499Z'
+dateModified: '2016-03-20T20:06:52.173Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Swimming technique: 9 common mistakes</h1><p>Training &gt; Swim Tri swimming coach Annie Oberlin-Harris explains 9 common mistakes triathletes make in the swim and advice on how to correct them 1 Poor push offs leading to poor swimming posture Many athletes don't realise the importance of getting a good push off the wall in the pool, for not only is one of the advantages is it can carry you through the water about 5m, or 20% off a standard 25m pool, but can also set you up with the right posture for the rest of the swim (see below).</p><img src="http://www.220triathlon.com/uploads/images/ArticleMain/12734.jpg" /></article>
+<article style=""><h1>Swimming technique: 9 common mistakes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20e7814ce7d1a2667196a4efee7283832c58aa41.jpg" /></article>
+
+Swim Tri swimming coach Annie Oberlin-Harris explains 9 common mistakes triathletes make in the swim and advice on how to correct them.
