@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 20:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 20:19:53 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Today I ran an 84km (56 mile) double marathon in 11 hrs 5mins &amp; a 90km Comrades length marathon in 11 hrs 50 mins" src="https://pbs.twimg.com/media/CeBDNWSXIAAYXJA.jpg:large">]]></description>
+            <link>https://twitter.com/eddieizzard/status/711642637875412992</link>
+            <guid isPermaLink="false">88a356c1-c192-4497-9772-5563f454efdb</guid>
+            <pubDate>Sun, 20 Mar 2016 20:19:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Swimming technique: 9 common mistakes]]></title>
@@ -75,13 +82,6 @@ And yet don't look too good, nor talk too wise: </p><img src="https://s3-us-wes
             <link>http://tonrunner.uk/hever-castle-triathlon-15/index.html</link>
             <guid isPermaLink="false">efde485b-c9c4-428d-b242-7ae05782ec40</guid>
             <pubDate>Tue, 15 Mar 2016 16:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LOL! Barefoot running just the sort of mental thing we wanted, say fitness freaks]]></title>
-            <description><![CDATA[<article><h1>LOL! Barefoot running just the sort of mental thing we wanted, say fitness freaks</h1><p>TRENDY barefoot running is the perfect combination of misery, showing off and pain, according to exercise fanatics. Running without footwear supposedly improves performance, although the key benefits to fitness obsessives are proving how hard they are and making people stare at them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1e0cbdaa5b843ca9354d6ade9747f047e8b9b1e.jpg"></article>]]></description>
-            <link>http://www.thedailymash.co.uk/news/health/barefoot-running-just-the-sort-of-mental-thing-we-wanted-say-fitness-freaks-20160301106694</link>
-            <guid isPermaLink="false">b81cab25-fd47-4d2b-ab7d-b88aed43ac9f</guid>
-            <pubDate>Wed, 02 Mar 2016 18:34:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
