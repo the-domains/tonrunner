@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 12:49:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 21:47:39 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Is 100 miles the new marathon?]]></title>
+            <description><![CDATA[<article><h1>Is 100 miles the new marathon?</h1><p>In the film Run, Fat Boy, Run, Simon Pegg's character faces losing his former fiancée to the dashing Whit. Among Whit's qualities, the fact 'he runs marathons' is delivered as the final nail in Pegg's coffin. After all, how could a mere mortal compete against such a superhuman?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e7de8445ad89ac8e74f0549d3114e5cf02883a9.jpg"></article>]]></description>
+            <link>http://www.runnersworld.co.uk/training/is-100-miles-the-new-marathon/14541.html?utm_content=buffer2ab1f&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">e73f620e-30bf-49f4-89ff-7fcdab1473c0</guid>
+            <pubDate>Mon, 21 Mar 2016 21:47:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is physical endurance all in the mind?]]></title>
-            <description><![CDATA[<article><h1>Is physical endurance all in the mind?</h1><p>A look at how far elite endurance athletes can push their bodies and how sports science can help improve their performances through cognitive training</p><img src="http://ichef.bbci.co.uk/images/ic/208x208/p02qbg5r.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Is physical endurance all in the mind?</h1><p>A look at how far elite endurance athletes can push their bodies and how sports science can help improve their performances through cognitive training</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbf04b8d89835e7927ded66ab5b2d52f8c5193f8.jpg"></article>]]></description>
             <link>http://www.bbc.co.uk/guides/zg9vgk7</link>
             <guid isPermaLink="false">8806897e-e877-4234-b214-2d86559c96e6</guid>
             <pubDate>Mon, 21 Mar 2016 12:48:17 GMT</pubDate>
@@ -75,13 +82,6 @@ And yet don't look too good, nor talk too wise: </p><img src="https://s3-us-wes
             <link>https://vimeo.com/157239808</link>
             <guid isPermaLink="false">71bf181e-429d-4791-86cf-6c6a2ecb8b16</guid>
             <pubDate>Fri, 11 Mar 2016 12:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[parkrun #118]]></title>
-            <description><![CDATA[<article><h1>parkrun #118</h1><p>The apricot T-shirt gets a run out in the sun for the first time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9466e77f06846d736a2f7c4fb204039adcc83315.jpg"></article>]]></description>
-            <link>http://tonrunner.uk/016d06d6-995b-4d08-9cb7-b37899766b77/index.html</link>
-            <guid isPermaLink="false">016d06d6-995b-4d08-9cb7-b37899766b77</guid>
-            <pubDate>Mon, 07 Mar 2016 14:26:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
