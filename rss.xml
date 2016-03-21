@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 11:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 12:49:14 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is physical endurance all in the mind?]]></title>
+            <description><![CDATA[<article><h1>Is physical endurance all in the mind?</h1><p>A look at how far elite endurance athletes can push their bodies and how sports science can help improve their performances through cognitive training</p><img src="http://ichef.bbci.co.uk/images/ic/208x208/p02qbg5r.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/guides/zg9vgk7</link>
+            <guid isPermaLink="false">8806897e-e877-4234-b214-2d86559c96e6</guid>
+            <pubDate>Mon, 21 Mar 2016 12:48:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,13 +82,6 @@ And yet don't look too good, nor talk too wise: </p><img src="https://s3-us-wes
             <link>http://tonrunner.uk/016d06d6-995b-4d08-9cb7-b37899766b77/index.html</link>
             <guid isPermaLink="false">016d06d6-995b-4d08-9cb7-b37899766b77</guid>
             <pubDate>Mon, 07 Mar 2016 14:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Standard Distance:1900m swim, 40km Ride, 10km Bike]]></title>
-            <description><![CDATA[<article><h1>Standard Distance:1900m swim, 40km Ride, 10km Bike</h1><p>A beautiful but challenging course for my first standard distance triathlon. Posted a 2hr32min time which put me in 64th position out of about 800 so happy with that.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0f094882c935e8b76f6128a7e68ebc282c10430.jpg"></article>]]></description>
-            <link>http://tonrunner.uk/hever-castle-triathlon-15/index.html</link>
-            <guid isPermaLink="false">efde485b-c9c4-428d-b242-7ae05782ec40</guid>
-            <pubDate>Tue, 15 Mar 2016 16:00:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
