@@ -17,8 +17,8 @@ keywords:
   - stretched
   - triathletes
 description: Swim Tri swimming coach Annie Oberlin-Harris explains 9 common mistakes triathletes make in the swim and advice on how to correct them.
-datePublished: '2016-03-21T08:59:21.928Z'
-dateModified: '2016-03-21T08:59:12.665Z'
+datePublished: '2016-03-21T09:00:59.920Z'
+dateModified: '2016-03-21T08:59:26.299Z'
 author: []
 related: []
 app_links: []
