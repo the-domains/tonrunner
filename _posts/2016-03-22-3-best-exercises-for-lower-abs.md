@@ -15,9 +15,9 @@ keywords:
   - curl
   - muscles
   - ups
-description: 'Although sit ups, diagonal crunches (elbow to opposite knee) and double leg lifts are popular in the gymnasium and sporting cultures they can cause a low back problem, or at the very least make an existing one worse.'
-datePublished: '2016-03-22T21:14:03.696Z'
-dateModified: '2016-03-22T21:13:10.004Z'
+description: "The 'number one' best exercise for the lower abs is reverse curl ups. This very same exercise helps recruit the pelvic floor muscles which act as a contractile sling across the base of the abdominal cavity. The pelvic floor muscles are often forcibly weakened by the bearing down effects of excessive sit up exercises. In later life, this can lead to incontinence.\_"
+datePublished: '2016-03-22T21:17:43.708Z'
+dateModified: '2016-03-22T21:17:10.003Z'
 author: []
 related: []
 app_links: []
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>3 Best Exercises for Lower Abs</h1><p>Although sit ups, diagonal crunches (elbow to opposite knee) and double leg lifts are popular in the gymnasium and sporting cultures they can cause a low back problem, or at the very least make an existing one worse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ec2f2ce19ffecee513721c475c181f90a30c840.jpg" /></article>
+<article style=""><h1>3 Best Exercises for Lower Abs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ec2f2ce19ffecee513721c475c181f90a30c840.jpg" /></article>
 
 The 'number one' best exercise for the lower abs is reverse curl ups. This very same exercise helps recruit the pelvic floor muscles which act as a contractile sling across the base of the abdominal cavity. The pelvic floor muscles are often forcibly weakened by the bearing down effects of excessive sit up exercises. In later life, this can lead to incontinence. 
 
