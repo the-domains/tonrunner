@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 21:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 21:09:51 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3 Best Exercises for Lower Abs]]></title>
+            <description><![CDATA[<article><h1>3 Best Exercises for Lower Abs</h1><p>The best exercises for the lower abs strengthen your abdominal wall without stooping the upper body forward, compressing the lower spinal segments, or weakening the pelvic floor. Although sit ups, diagonal crunches (elbow to opposite knee) and double leg lifts are popular in the gymnasium and sporting cultures they can cause a low back problem, or at the very least make an existing one worse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ec2f2ce19ffecee513721c475c181f90a30c840.jpg"></article>]]></description>
+            <link>http://www.simplebackpain.com/best-exercises-for-lower-abs.html#axzz43fSCROex</link>
+            <guid isPermaLink="false">66747e94-7e8e-4daf-b9ea-fa804ddd17fc</guid>
+            <pubDate>Tue, 22 Mar 2016 21:09:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is 100 miles the new marathon?]]></title>
@@ -75,13 +82,6 @@ And yet don't look too good, nor talk too wise: </p><img src="https://s3-us-wes
             <link>http://tonrunner.uk/my-100th-parkrun/index.html</link>
             <guid isPermaLink="false">bfad8cd3-29b7-4bf2-b6c4-044592c4c966</guid>
             <pubDate>Tue, 15 Mar 2016 16:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DreamRide]]></title>
-            <description><![CDATA[<article><h1>DreamRide</h1><p>Enter a dream world where the trails never end. Where the promise of joy and freedom exist around each bend. Take a magical trip through beautiful landscapes and join us on this DreamRide. DreamRide was filmed in Utah, Nevada, California, Oregon, and Washington in the Fall of 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c37d181f731fefafa181dd32144125d6bf530b9.jpg"></article>]]></description>
-            <link>https://vimeo.com/157239808</link>
-            <guid isPermaLink="false">71bf181e-429d-4791-86cf-6c6a2ecb8b16</guid>
-            <pubDate>Fri, 11 Mar 2016 12:42:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
