@@ -16,8 +16,8 @@ keywords:
   - muscles
   - ups
 description: "The 'number one' best exercise for the lower abs is reverse curl ups. This very same exercise helps recruit the pelvic floor muscles which act as a contractile sling across the base of the abdominal cavity. The pelvic floor muscles are often forcibly weakened by the bearing down effects of excessive sit up exercises. In later life, this can lead to incontinence.\_"
-datePublished: '2016-03-22T21:17:43.708Z'
-dateModified: '2016-03-22T21:17:10.003Z'
+datePublished: '2016-03-22T21:18:34.091Z'
+dateModified: '2016-03-22T21:18:20.173Z'
 author: []
 related: []
 app_links: []
