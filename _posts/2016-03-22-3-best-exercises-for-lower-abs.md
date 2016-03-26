@@ -16,8 +16,8 @@ keywords:
   - muscles
   - ups
 description: "The 'number one' best exercise for the lower abs is reverse curl ups. This very same exercise helps recruit the pelvic floor muscles which act as a contractile sling across the base of the abdominal cavity. The pelvic floor muscles are often forcibly weakened by the bearing down effects of excessive sit up exercises. In later life, this can lead to incontinence.\_"
-datePublished: '2016-03-26T13:23:25.171Z'
-dateModified: '2016-03-26T13:23:00.416Z'
+datePublished: '2016-03-26T13:31:00.747Z'
+dateModified: '2016-03-26T13:30:23.411Z'
 author: []
 related: []
 app_links: []
@@ -53,3 +53,10 @@ The oblique twists are supremely effective a reducing a slack and protruding low
 
 The hardest part of the oblique twists action is changing direction and pulling the legs back the other way, and this is when it's tempting to push into the floor with the arms, that must be resisted. It is also important to keep the thighs together and not lift one leg at a time when swinging the legs up and over the body the other way. Ideally, you should perform 15 oblique twists to both sides in one lower abs strengthening session. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb55237f-ede5-49b7-ac2e-c81253cc081b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3202ca0e-2e5b-402d-9723-8f3bb9c76aab.jpg)
+
+The final best exercise for lower abs is legs passing. This is a disarmingly complex exercise, made simple in the doing. The legs going up and down reciprocally requires both concentric (pulling in) and eccentric (paying out) control of opposite sides of the abdominal musculature. This dual action strengthens the abdominals but also in a sense 'tricks' over-active back muscles into switching off. At the same time, this third best exercise for lower abs helps restore a more relaxed swinging action of the hips during walking. Free swing hips often disappear when you've had a back problem for any length of time. 
+
+You should initiate the legs passing exercise by pressing the whole of the low back into the floor and keeping it there. This stabilises the spine and makes it safe to lift the legs. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/789629be-2e68-4bd0-b4a8-dca351e7b767.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bdb9a65-0fea-489b-9561-215030e1a2ca.jpg)
+
+Legs passing is often done badly, at the risk of making a back problem worse. The usual mistake is straightening out each leg as you take it to the floor, as in a sort of bicycling action of the legs. At all costs this should be avoided as it can can cause shearing strains across the lumbar spine which will feel like a strain and could make the back very painful - and set you back! Ideally, you perform 15 bilateral legs passing in each session.
