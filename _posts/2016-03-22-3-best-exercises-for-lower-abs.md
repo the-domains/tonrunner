@@ -16,8 +16,8 @@ keywords:
   - muscles
   - ups
 description: "The 'number one' best exercise for the lower abs is reverse curl ups. This very same exercise helps recruit the pelvic floor muscles which act as a contractile sling across the base of the abdominal cavity. The pelvic floor muscles are often forcibly weakened by the bearing down effects of excessive sit up exercises. In later life, this can lead to incontinence.\_"
-datePublished: '2016-03-22T21:18:34.091Z'
-dateModified: '2016-03-22T21:18:20.173Z'
+datePublished: '2016-03-26T13:23:25.171Z'
+dateModified: '2016-03-26T13:23:00.416Z'
 author: []
 related: []
 app_links: []
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>3 Best Exercises for Lower Abs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ec2f2ce19ffecee513721c475c181f90a30c840.jpg" /></article>
+![Although sit ups, diagonal crunches (elbow to opposite knee) and double leg lifts are popular in the gymnasium and sporting cultures they can cause a low back problem, or at the very least make an existing one worse.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b320d73d-853f-4b9d-8377-c4545a5ab744.jpg)
 
 The 'number one' best exercise for the lower abs is reverse curl ups. This very same exercise helps recruit the pelvic floor muscles which act as a contractile sling across the base of the abdominal cavity. The pelvic floor muscles are often forcibly weakened by the bearing down effects of excessive sit up exercises. In later life, this can lead to incontinence. 
 
@@ -51,4 +51,5 @@ The arms at shoulder level should not rest upon the floor, as this makes it all 
 
 The oblique twists are supremely effective a reducing a slack and protruding lower belly. They principally activate both the internal and external oblique muscles and in so doing, also nip in the sides of the waist creating the enviable hour-glass figure. 
 
-The hardest part of the oblique twists action is changing direction and pulling the legs back the other way, and this is when it's tempting to push into the floor with the arms, that must be resisted. It is also important to keep the thighs together and not lift one leg at a time when swinging the legs up and over the body the other way. Ideally, you should perform 15 oblique twists to both sides in one lower abs strengthening session.
+The hardest part of the oblique twists action is changing direction and pulling the legs back the other way, and this is when it's tempting to push into the floor with the arms, that must be resisted. It is also important to keep the thighs together and not lift one leg at a time when swinging the legs up and over the body the other way. Ideally, you should perform 15 oblique twists to both sides in one lower abs strengthening session. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb55237f-ede5-49b7-ac2e-c81253cc081b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3202ca0e-2e5b-402d-9723-8f3bb9c76aab.jpg)
