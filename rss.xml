@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 16:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 18:52:49 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[2016 Race Schedule]]></title>
+            <description><![CDATA[<article><h1>2016 Race Schedule</h1><p>I like competing, I never used to but I have found more and more that I do. It maybe that I have come to accept that I am not really competing against anyone else merely against myself; can I go further faster or higher than I have done before. I think it also comes with the realisation that there is always going to be somebody better than you. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e291c9a1e5bb0b8d795676320e6c26daaf39dd4.jpg"></article>]]></description>
+            <link>http://tonrunner.uk/2016-race-list/index.html</link>
+            <guid isPermaLink="false">9992db98-edef-4ff6-b121-dd52015e3fd2</guid>
+            <pubDate>Tue, 29 Mar 2016 18:52:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[All the gear...: 'How obsession with kit eclipsed my love of running']]></title>
-            <description><![CDATA[<article><h1>All the gear...: 'How obsession with kit eclipsed my love of running'</h1><p>It's 2012 and I'm at Wimbledon chatting with Serena Williams. We're recording an interview for BBC radio and she's telling me about her new wristband which measures movement, heart rate, calories, even sleep quality. The technology is staggering.</p><img src="https://i.guim.co.uk/img/media/d0d2063bf345c9a5b7843fc2e5ff7e786ac2f5b0/0_438_3392_2035/master/3392.jpg?w=1200&q=55&auto=format&usm=12&fit=max&s=cd93d0e34a87225137c0f6df3e8c8e99"></article>]]></description>
+            <description><![CDATA[<article><h1>All the gear...: 'How obsession with kit eclipsed my love of running'</h1><p>It's 2012 and I'm at Wimbledon chatting with Serena Williams. We're recording an interview for BBC radio and she's telling me about her new wristband which measures movement, heart rate, calories, even sleep quality. The technology is staggering.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/389fc5c4ca7a834a9f6ad598cbda42e933a6bf6d.jpg"></article>]]></description>
             <link>http://www.theguardian.com/lifeandstyle/2016/mar/27/heart-rate-monitors-gps-watches-running-kit-vassos-alexander</link>
             <guid isPermaLink="false">7a81602a-4634-4d6f-9e90-70a0370f6a85</guid>
             <pubDate>Sun, 27 Mar 2016 16:56:22 GMT</pubDate>
@@ -75,13 +82,6 @@ And yet don't look too good, nor talk too wise: </p><img src="https://s3-us-wes
             <link>https://www.runtastic.com/blog/en/veras-viewpoint/how-to-burn-fat-while-running/</link>
             <guid isPermaLink="false">465952b3-d634-4592-8858-0d7169f307c6</guid>
             <pubDate>Tue, 15 Mar 2016 16:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Run Tip#2]]]></title>
-            <description><![CDATA[<article><h1>[Run Tip#2]</h1><p>Five 'big' steps to make you a better runner; nobody said it was going to be easy, but if you if you can go some way to achieve these steps you become a stronger runner and running will become more enjoyable. As with every change start with little steps and grow into the habit. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12e528d125323a9b8d2e590c8883357d38bdc368.png"></article>]]></description>
-            <link>http://tonrunner.uk/run-tip2/index.html</link>
-            <guid isPermaLink="false">d97cc3b2-fc9f-43c3-9196-cb8e4b8a8f99</guid>
-            <pubDate>Thu, 17 Mar 2016 12:07:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
