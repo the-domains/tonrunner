@@ -1,24 +1,18 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
-inLanguage: null
-starred: false
+authors: []
+dateModified: '2016-04-20T18:05:31.583Z'
+datePublished: '2016-04-20T18:05:48.480Z'
 keywords: []
+publisher: {}
+title: Run
+hasPage: false
+inFeed: true
+inNav: false
+starred: false
 description: ''
-datePublished: '2016-04-20T09:02:06.472Z'
-dateModified: '2016-04-20T08:54:03.979Z'
-title: ''
 author: []
 sourcePath: _posts/2016-04-08-running-in-the-yorkshire-dales.md
 published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
