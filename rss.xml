@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 11:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 11:45:50 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Running in God's country ]]></title>
+            <description><![CDATA[<article><h1>Running in God's country </h1><p>Some more photos from my running in the Yorkshire Dales</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27b7880d-8317-418b-a8b1-dc1387d18754.jpg"></article>]]></description>
+            <link>http://tonrunner.uk/running-in-gods-country/index.html</link>
+            <guid isPermaLink="false">b2aae137-9920-48ec-86c9-824b252269d9</guid>
+            <pubDate>Thu, 21 Apr 2016 11:45:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ ]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.co.uk/guides/zg9vgk7</link>
             <guid isPermaLink="false">8806897e-e877-4234-b214-2d86559c96e6</guid>
             <pubDate>Mon, 21 Mar 2016 12:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swimming technique: 9 common mistakes]]></title>
-            <description><![CDATA[<article><h1>Swimming technique: 9 common mistakes</h1><p>Swim Tri swimming coach Annie Oberlin-Harris explains 9 common mistakes triathletes make in the swim and advice on how to correct them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20e7814ce7d1a2667196a4efee7283832c58aa41.jpg"></article>]]></description>
-            <link>http://www.220triathlon.com/training/swim/swimming-technique-9-common-mistakes/10853.html</link>
-            <guid isPermaLink="false">38a357eb-0403-4d5d-bd71-46189a709f91</guid>
-            <pubDate>Mon, 21 Mar 2016 11:49:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
