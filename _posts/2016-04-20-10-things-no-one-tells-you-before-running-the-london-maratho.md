@@ -17,9 +17,9 @@ keywords:
   - queue
   - bit
 description: "For many, it'll be their first time. These are the 10 things which every London Marathon virgin will want to know. Greenwich Park and Blackheath are lovely settings for the start. You won't really enjoy them, you'll be in the queue for the toilet."
-datePublished: '2016-04-21T11:38:10.716Z'
-dateModified: '2016-04-21T11:37:29.500Z'
-title: 10 things no-one tells you before running the London Marathon
+datePublished: '2016-04-21T11:44:03.918Z'
+dateModified: '2016-04-21T11:43:32.879Z'
+title: ' '
 author:
   - name: ''
     url: ''
@@ -37,6 +37,4 @@ _type: MediaObject
 ---
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88f602fc7d11528ceb9ed2a4592c12bbd7dfe55c.jpg" /></article>
 
-# 10 things no-one tells you before running the London Marathon
-
-For many, it'll be their first time. These are the 10 things which every London Marathon virgin will want to know. Greenwich Park and Blackheath are lovely settings for the start. You won't really enjoy them, you'll be in the queue for the toilet.
+#
