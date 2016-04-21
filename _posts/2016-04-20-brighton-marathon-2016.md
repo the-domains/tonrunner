@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-04-20T20:52:09.069Z'
-datePublished: '2016-04-20T20:52:24.266Z'
+dateModified: '2016-04-20T20:55:00.785Z'
+datePublished: '2016-04-21T05:51:50.492Z'
 title: Brighton Marathon 2016
 hasPage: false
 inFeed: true
