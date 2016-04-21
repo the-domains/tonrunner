@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Had a good day at the office, having had a good first 8 weeks to the training my original intention was to go for a 3:05 her and gain good for age for London next year; you may remember my half marathon time suggested I was on the right track, unfortunately since then I have had a back injury that has plagued training and meant that in the last 6 weeks I have done no speed work and my longest run has been just under 12 miles, prior to that I had done one 20 mile run. Needless to say I was not going into the run with too many expectations.'
-datePublished: '2016-04-21T11:31:51.202Z'
-dateModified: '2016-04-21T11:31:46.704Z'
+datePublished: '2016-04-21T11:35:31.578Z'
+dateModified: '2016-04-21T11:35:10.681Z'
 title: Brighton Marathon 2016
 author: []
 sourcePath: _posts/2016-04-20-brighton-marathon-2016.md
@@ -24,8 +24,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/450329c3-fcca-4bd2-aa74-a64ffe229c24.jpg)
-
-# Brighton Marathon 2016
 
 I made another one of my annual pilgrimages to Brighton today to take part in the 2016 Brighton Marathon.
 
