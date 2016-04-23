@@ -1,15 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BEjYNh7B4R-/'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-04-23T18:31:12.589Z'
+dateModified: '2016-04-23T18:28:25.770Z'
 author:
   - name: alester229
     url: 'https://www.instagram.com/alester229'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1234937205722940542'
     type: ios
@@ -25,17 +28,16 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BEjYNh7B4R-/'
 title: 'First #openwater swim of if the year. Chilly but lots of fun'
-datePublished: '2016-04-23T18:28:17.703Z'
-dateModified: '2016-04-23T18:27:30.007Z'
-description: ''
-starred: false
 sourcePath: _posts/2016-04-23-first-openwater-swim-of-if-the-year-chilly-but-lots-of-fun.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
