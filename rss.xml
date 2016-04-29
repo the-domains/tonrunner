@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 05:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 05:54:13 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/anthony-lester/index.html</link>
             <guid isPermaLink="false">fa5e4be6-ff0d-44e5-a04f-e92818acdd97</guid>
             <pubDate>Mon, 01 Feb 2016 15:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After-drop is real - and how to deal with it]]></title>
+            <description><![CDATA[<article><h1>After-drop is real - and how to deal with it</h1><p>If you have spent any time hanging around open water swimmers you may have heard the term "after-drop". If you've done any swimming in cool water, you may have experienced it. For the uninitiated, after-drop refers to the decline in your core body temperature after you have got out of the water.</p><img src="http://h2openmagazine.com/assets/site/_1440xAUTO_crop_center-center/e0304fa69c7c18c98e57235d7c180d04_f1850.jpg"></article>]]></description>
+            <link>http://h2openmagazine.com/blogs/after-drop-is-real-and-how-to-deal-with-it</link>
+            <guid isPermaLink="false">1dbec17d-d413-4236-b26a-f63873ac0cad</guid>
+            <pubDate>Fri, 29 Apr 2016 05:53:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tonbridge parkrun #124]]></title>
@@ -68,13 +75,6 @@
             <link>http://tonrunner.uk/2016-race-list/index.html</link>
             <guid isPermaLink="false">9992db98-edef-4ff6-b121-dd52015e3fd2</guid>
             <pubDate>Tue, 29 Mar 2016 18:55:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All the gear...: 'How obsession with kit eclipsed my love of running']]></title>
-            <description><![CDATA[<article><h1>All the gear...: 'How obsession with kit eclipsed my love of running'</h1><p>It's 2012 and I'm at Wimbledon chatting with Serena Williams. We're recording an interview for BBC radio and she's telling me about her new wristband which measures movement, heart rate, calories, even sleep quality. The technology is staggering.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/389fc5c4ca7a834a9f6ad598cbda42e933a6bf6d.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/lifeandstyle/2016/mar/27/heart-rate-monitors-gps-watches-running-kit-vassos-alexander</link>
-            <guid isPermaLink="false">7a81602a-4634-4d6f-9e90-70a0370f6a85</guid>
-            <pubDate>Sun, 27 Mar 2016 16:56:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
