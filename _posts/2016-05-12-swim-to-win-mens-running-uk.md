@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://mensrunninguk.co.uk'
-  name: "Men's Running the UK's first running magazine just for men"
-  favicon: 'http://mensrunninguk.co.uk/wp-content/uploads/fbrfg/favicon.ico'
-  domain: mensrunninguk.co.uk
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://mensrunninguk.co.uk/training/swim-to-win/'
+inLanguage: en
 keywords:
   - swimming
   - keeley
@@ -18,19 +16,24 @@ keywords:
   - 10secs
   - 75m
 description: "First, a confession: my interest in swimming began after I read about Michael Phelps' diet. The decorated Olympic swimmer, I found out, consumes a whopping 12,000 calories a day, involving the chomping down of pizzas, pasta and eight-egg omelettes. If Phelpsy can eat all that and look completely ripped, maybe it's time the rest of us headed to the pool, hey?"
-inLanguage: en
+datePublished: '2016-05-12T18:40:37.094Z'
+dateModified: '2016-05-12T18:39:49.214Z'
+author:
+  - name: ''
+    url: ''
+related: []
 app_links: []
-isBasedOnUrl: 'http://mensrunninguk.co.uk/training/swim-to-win/'
-title: "Swim to win - Men's Running UK"
-datePublished: '2016-05-12T17:22:44.256Z'
-dateModified: '2016-05-12T17:20:24.623Z'
-starred: false
+title: Swim to win
 sourcePath: _posts/2016-05-12-swim-to-win-mens-running-uk.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: "Men's Running the UK's first running magazine just for men"
+  domain: mensrunninguk.co.uk
+  url: 'http://mensrunninguk.co.uk'
+  favicon: 'http://mensrunninguk.co.uk/wp-content/uploads/fbrfg/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Swim to win - Men's Running UK</h1><p>First, a confession: my interest in swimming began after I read about Michael Phelps' diet. The decorated Olympic swimmer, I found out, consumes a whopping 12,000 calories a day, involving the chomping down of pizzas, pasta and eight-egg omelettes. If Phelpsy can eat all that and look completely ripped, maybe it's time the rest of us headed to the pool, hey?</p><img src="http://mensrunninguk.co.uk/wp-content/uploads/2016/05/ThinkstockPhotos-1809d25820.jpg" /></article>
+<article style=""><h1>Swim to win</h1><p>First, a confession: my interest in swimming began after I read about Michael Phelps' diet. The decorated Olympic swimmer, I found out, consumes a whopping 12,000 calories a day, involving the chomping down of pizzas, pasta and eight-egg omelettes. If Phelpsy can eat all that and look completely ripped, maybe it's time the rest of us headed to the pool, hey?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2777c0bc9d2b41f651f87535a2dbab5fe2306c3.jpg" /></article>
