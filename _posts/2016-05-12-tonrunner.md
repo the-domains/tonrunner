@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'This is my scrapbook of all things that interest, amuse, fascinate and inspire me in the world of swimming, cycling and running. I could have done it on facebook but all my friends and family are probably sick to death of my constant witterings and ramblings. '
-datePublished: '2016-05-12T19:26:15.584Z'
-dateModified: '2016-05-12T19:26:03.501Z'
+description: 'This is my scrapbook of all things that interest, amuse, fascinate and inspire me in the world of swimming, cycling and running. I could have done it on facebook but all my friends and family are probably sick to death of my constant witterings and ramblings.'
+datePublished: '2016-05-12T19:27:24.855Z'
+dateModified: '2016-05-12T19:26:26.706Z'
 title: TonRunner
 author:
   - name: ''
@@ -17,8 +17,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-12-tonrunner.md
+starred: true
 url: tonrunner/index.html
 _type: Article
 
