@@ -1,15 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BFkDNVuB4ef/'
+inLanguage: null
+keywords: []
+description: 'A great evening race at Leybourne Lakes. My first ever aquathlon! The race had two distances running simultaneously a 750m swim and a 1500m swim each followed by a 5k run. The two running together was slightly confusing and led to me going off far to fast on the swim. Got to about 25om metre and nearly died, slowed down a bit recovered and the second lap of the swim was much more comfortable with less people.'
+datePublished: '2016-05-19T14:26:14.900Z'
+dateModified: '2016-05-19T14:25:20.414Z'
 author:
   - name: alester229
     url: 'https://www.instagram.com/alester229'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1253140707129395103'
     type: ios
@@ -25,18 +28,21 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BFkDNVuB4ef/'
 title: Pre race preperation for Ocean Lake Tri clubs first Aquathlon of the year.
-datePublished: '2016-05-18T21:23:52.340Z'
-dateModified: '2016-05-18T21:22:26.236Z'
-description: ''
-starred: false
 sourcePath: _posts/2016-05-18-pre-race-preperation-for-ocean-lake-tri-clubs-first-aquathlo.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico'
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
 ![Pre race preperation for Ocean Lake Tri clubs first Aquathlon of the year.](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13181535_1127673407253879_1632198945_n.jpg?ig_cache_key=MTI1MzE0MDcwNzEyOTM5NTEwMw%3D%3D.2)
+
+A great evening race at Leybourne Lakes. My first ever aquathlon! The race had two distances running simultaneously a 750m swim and a 1500m swim each followed by a 5k run. The two running together was slightly confusing and led to me going off far to fast on the swim. Got to about 25om metre and nearly died, slowed down a bit recovered and the second lap of the swim was much more comfortable with less people.
+
+Total:44:39, Swim(1500m):23:55, T1:00:38, Run (5K):20:05
