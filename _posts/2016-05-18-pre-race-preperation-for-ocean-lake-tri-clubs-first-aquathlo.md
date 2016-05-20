@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.instagram.com/p/BFkDNVuB4ef/'
 inLanguage: null
 keywords: []
 description: 'A great evening race at Leybourne Lakes. My first ever aquathlon! The race had two distances running simultaneously a 750m swim and a 1500m swim each followed by a 5k run. The two running together was slightly confusing and led to me going off far to fast on the swim. Got to about 25om metre and nearly died, slowed down a bit recovered and the second lap of the swim was much more comfortable with less people.'
-datePublished: '2016-05-19T14:27:39.425Z'
-dateModified: '2016-05-19T14:27:14.398Z'
+datePublished: '2016-05-20T15:48:18.702Z'
+dateModified: '2016-05-20T15:47:57.684Z'
 author:
   - name: alester229
     url: 'https://www.instagram.com/alester229'
@@ -45,6 +45,6 @@ _context: 'http://schema.org'
 
 A great evening race at Leybourne Lakes. My first ever aquathlon! The race had two distances running simultaneously a 750m swim and a 1500m swim each followed by a 5k run. The two running together was slightly confusing and led to me going off far to fast on the swim. Got to about 25om metre and nearly died, slowed down a bit recovered and the second lap of the swim was much more comfortable with less people.
 
-Total:44:39, Swim(1500m):23:55, T1:00:38, Run (5K):20:05 [Garmin][0]
+Position: 3 Total:44:36, Swim(1500m):23:25, T1:01:06, Run (5K):20:05 [Garmin][0]
 
 [0]: https://connect.garmin.com/modern/activity/1174045814
