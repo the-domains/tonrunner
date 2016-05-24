@@ -1,5 +1,6 @@
 ---
-dateModified: '2016-05-24T20:00:15.392Z'
+dateModified: '2016-05-24T20:08:36.254Z'
+datePublished: '2016-05-24T20:08:50.822Z'
 description: "It might be one of the most feared words in a runner's vocabulary, right next to patience and rest. After months of long miles and lung-busting intervals, finding the right balance of sharpening and rest to hit race day firing on all cylinders can be a nerve-wracking process."
 inLanguage: en
 isBasedOnUrl: 'http://triathlete-europe.competitor.com/2016/05/20/common-tapering-mistakes'
@@ -22,7 +23,6 @@ publisher:
 title: Common tapering mistakes
 author: []
 starred: false
-datePublished: '2016-05-24T20:00:31.362Z'
 sourcePath: _posts/2016-05-24-common-tapering-mistakes.md
 inFeed: true
 hasPage: false
