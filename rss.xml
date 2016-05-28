@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 20:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 19:32:13 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Thu, 12 May 2016 19:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bling so big it gets it's own cozy. Kent Roadrunner Marathon medal and Buff. ]]></title>
+            <description><![CDATA[<article><h1>Bling so big it gets it's own cozy. Kent Roadrunner Marathon medal and Buff. </h1><p>Bling so big it gets it's own cozy. Kent Roadrunner Marathon medal and Buff. #racebling</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/735158dcd28eef0bf6fc639a2a77ae5a12f8a485.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BF9jDzLh4ct/</link>
+            <guid isPermaLink="false">d4af231c-2aa4-4d19-bd59-f4a6934c4ad5</guid>
+            <pubDate>Sat, 28 May 2016 19:32:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Common tapering mistakes]]></title>
@@ -68,13 +75,6 @@
             <link>http://mensrunninguk.co.uk/training/swim-to-win/</link>
             <guid isPermaLink="false">72d0d532-f68b-4b37-af59-f23396c5a5fb</guid>
             <pubDate>Thu, 12 May 2016 18:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best Way To Warm Up]]></title>
-            <description><![CDATA[<article><h1>The Best Way To Warm Up</h1><p>Dynamic warm-up drills may be the single best way to prevent injuries and improve performance. As a rule, runners tend to be well-informed when it comes to understanding the best ways to stay healthy and avoid injury. Most runners pay close attention to their diet, monitor their weekly mileage, and replace their running shoes at regular intervals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c3d6197d6a9519a5776c8fbf817671a898093c5.jpg"></article>]]></description>
-            <link>http://running.competitor.com/2014/10/training/best-way-warm_116403</link>
-            <guid isPermaLink="false">e35a3269-9b63-4a62-b6bc-5ddd60a52019</guid>
-            <pubDate>Thu, 12 May 2016 18:40:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
