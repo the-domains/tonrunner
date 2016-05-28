@@ -1,5 +1,6 @@
 ---
-dateModified: '2016-05-28T19:31:55.714Z'
+dateModified: '2016-05-28T21:23:49.055Z'
+datePublished: '2016-05-28T21:23:58.501Z'
 description: "Bling so big it gets it's own cozy. Kent Roadrunner Marathon medal and Buff. #racebling"
 isBasedOnUrl: 'https://www.instagram.com/p/BF9jDzLh4ct/'
 keywords: []
@@ -11,7 +12,6 @@ publisher:
 title: "Bling so big it gets it's own cozy. Kent Roadrunner Marathon medal and Buff. "
 author: []
 starred: false
-datePublished: '2016-05-28T19:32:07.626Z'
 sourcePath: _posts/2016-05-28-bling-so-big-it-gets-its-own-cozy-kent-roadrunner-marathon.md
 inFeed: true
 hasPage: false
