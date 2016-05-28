@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-05-28T21:23:49.055Z'
-datePublished: '2016-05-28T21:23:58.501Z'
+dateModified: '2016-05-28T21:44:49.672Z'
+datePublished: '2016-05-28T21:45:00.282Z'
 description: "Bling so big it gets it's own cozy. Kent Roadrunner Marathon medal and Buff. #racebling"
 isBasedOnUrl: 'https://www.instagram.com/p/BF9jDzLh4ct/'
 keywords: []
