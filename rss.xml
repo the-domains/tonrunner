@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 12:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 22:32:22 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Thu, 12 May 2016 19:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why runners should do Pilates]]></title>
+            <description><![CDATA[<article><h1>Why runners should do Pilates</h1><p>Pilates is often compared to yoga, but they actually have very different backgrounds. While yoga is a centuries-old practice with close links to spirituality, Pilates is a mind and body conditioning technique developed by Joseph Pilates in the 1920s. Classes feature exercises to improve core stability and encourage healthy posture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3101a23ef0771a54274c8aa535ea11196b549b28.jpg"></article>]]></description>
+            <link>http://www.runnersworld.co.uk/health/why-runners-should-do-pilates/13930.html?utm_content=bufferdd315&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">86ab2579-aa00-4b4b-bd89-feb10f6f2bcb</guid>
+            <pubDate>Wed, 01 Jun 2016 22:32:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kent Roadrunners Marathon 2016]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.co.uk/news/uk-36288384</link>
             <guid isPermaLink="false">99288de5-0191-44d4-a028-069de15ecd06</guid>
             <pubDate>Fri, 13 May 2016 19:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4e8b3ea673f2b7378fc99d5785530f32f2bc346.jpg" alt="Thank you @BrightonMarathn for replacing my lost medal. The kids now actually believe I did it ;)" title="">]]></description>
-            <link>https://twitter.com/alester229/status/730824796204871680</link>
-            <guid isPermaLink="false">606ecc6b-8896-4e6c-9b9b-9b38b917a8d2</guid>
-            <pubDate>Thu, 12 May 2016 19:45:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
