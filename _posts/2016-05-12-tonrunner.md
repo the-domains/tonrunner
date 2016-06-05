@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-06-05T15:58:35.865Z'
-datePublished: '2016-06-05T15:58:36.175Z'
+dateModified: '2016-06-05T15:58:42.755Z'
+datePublished: '2016-06-05T15:58:43.197Z'
 description: >-
   This is my scrapbook of all things that interest, amuse, fascinate and inspire
   me in the world of swimming, cycling and running. I could have done it on
@@ -15,8 +15,8 @@ title: TonRunner
 author: []
 inLanguage: null
 publisher: null
-starred: false
 sourcePath: _posts/2016-05-12-tonrunner.md
+starred: true
 url: tonrunner/index.html
 _type: Article
 
