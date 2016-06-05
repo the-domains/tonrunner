@@ -1,24 +1,22 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
+authors: []
+dateModified: '2016-06-05T15:58:35.865Z'
+datePublished: '2016-06-05T15:58:36.175Z'
 description: >-
   This is my scrapbook of all things that interest, amuse, fascinate and inspire
   me in the world of swimming, cycling and running. I could have done it on
   facebook but all my friends and family are probably sick to death of my
   constant witterings and ramblings.
-datePublished: '2016-06-03T20:01:43.814Z'
-dateModified: '2016-06-03T20:01:43.255Z'
+hasPage: true
+inFeed: true
+inNav: true
+keywords: []
 title: TonRunner
-author:
-  - name: ''
-    url: ''
-authors: []
+author: []
+inLanguage: null
 publisher: null
-sourcePath: _posts/2016-05-12-tonrunner.md
 starred: false
+sourcePath: _posts/2016-05-12-tonrunner.md
 url: tonrunner/index.html
 _type: Article
 
@@ -27,9 +25,9 @@ _type: Article
 
 This is my scrapbook of all things that interest, amuse, fascinate and inspire me in the world of swimming, cycling and running. I could have done it on facebook but all my friends and family are probably sick to death of my constant witterings and ramblings.
 
-I am fortunate enough to be the event director of Tonbridge parkrun so there will be plenty of posts from there. 
+I am fortunate enough to be the event director of Tonbridge parkrun so there will be plenty of posts from there.
 
-My running background is surprisingly short having only really started running properly in 2009\. I have always been keen sportsman but after leaving university there never seemed to be the time, a concept that I have since realised was a total untruth. Since 2009, however, running has become a part of my life, I got started with a hard 10K having done no training but still finishing in a respectable time. With this experience I caught the running bug and have since complete multiple marathons and countless half marathons. 
+My running background is surprisingly short having only really started running properly in 2009\. I have always been keen sportsman but after leaving university there never seemed to be the time, a concept that I have since realised was a total untruth. Since 2009, however, running has become a part of my life, I got started with a hard 10K having done no training but still finishing in a respectable time. With this experience I caught the running bug and have since complete multiple marathons and countless half marathons.
 
 I love to run, yes, I love to push myself to the limit of my capabilities and fulfill my potential, I love to challenge myself I love the chance being able to aim for my personal goals, to often fail but having the opportunity to aim for them again the next time I run. But I am also passionate about running.
 
