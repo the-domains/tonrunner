@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 14:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 17:02:57 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Sun, 05 Jun 2016 15:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Honnington tonight is CANCELLED. Sorry for any inconvenience, but we don't fancy having any crispy-fried swimmers tonight!</p>]]></description>
+            <link>https://twitter.com/TriSwimKent/status/746022999925612544?s=09</link>
+            <guid isPermaLink="false">e3ab5c86-7c20-440b-8ba8-66759286d0ca</guid>
+            <pubDate>Thu, 23 Jun 2016 17:02:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ditch The Long, Slow Distance]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BF9jDzLh4ct/</link>
             <guid isPermaLink="false">724a1ed1-2e5b-4320-b827-5ab309355255</guid>
             <pubDate>Sun, 29 May 2016 06:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Common tapering mistakes]]></title>
-            <description><![CDATA[<article><h1>Common tapering mistakes</h1><p>It might be one of the most feared words in a runner's vocabulary, right next to patience and rest. After months of long miles and lung-busting intervals, finding the right balance of sharpening and rest to hit race day firing on all cylinders can be a nerve-wracking process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a13d15440b9fa06b1fc7201863855e9606ecbd91.jpg"></article>]]></description>
-            <link>http://triathlete-europe.competitor.com/2016/05/20/common-tapering-mistakes</link>
-            <guid isPermaLink="false">64883189-5476-4bb7-9b7f-7893ec123925</guid>
-            <pubDate>Tue, 24 May 2016 20:08:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
