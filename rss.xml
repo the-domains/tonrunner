@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 17:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 12:10:02 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Sun, 05 Jun 2016 15:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bike Climbing: Sit or Stand?]]></title>
+            <description><![CDATA[<article><h1>Bike Climbing: Sit or Stand?</h1><p>Unless you're Jan Ullrich, the oversized 1997 Tour de France champion from Germany, there are some hills, or at least some stretches of some hills, that all but demand you stand on the pedals to get up and over them.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed0c5c52c4a21787e5a9ad47697df828/noop.png?input=http%3A%2F%2Fcdn.triathlete-europe.competitor.com%2Ffiles%2F2014%2F07%2FScreen-shot-2014-07-20-at-22.25.03.png"></article>]]></description>
+            <link>http://triathlete-europe.competitor.com/2016/06/24/bike-climbing-sit-or-stand</link>
+            <guid isPermaLink="false">a08d5112-89c9-4245-b41e-ebe5fcacf741</guid>
+            <pubDate>Mon, 27 Jun 2016 12:09:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/168249343</link>
             <guid isPermaLink="false">9ded332e-037f-4c51-a5c8-bf5cf5e2f888</guid>
             <pubDate>Sun, 29 May 2016 07:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bling so big it gets it's own cozy. Kent Roadrunner Marathon medal and Buff. #racebling]]></title>
-            <description><![CDATA[<article><h1>Bling so big it gets it's own cozy. Kent Roadrunner Marathon medal and Buff. #racebling</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/735158dcd28eef0bf6fc639a2a77ae5a12f8a485.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BF9jDzLh4ct/</link>
-            <guid isPermaLink="false">724a1ed1-2e5b-4320-b827-5ab309355255</guid>
-            <pubDate>Sun, 29 May 2016 06:59:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
