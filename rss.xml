@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 12:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 15:48:40 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Sun, 05 Jun 2016 15:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is your perfect run mileage?]]></title>
+            <description><![CDATA[<article><h1>What is your perfect run mileage?</h1><p>Not all runners are created equal, and neither are their weekly mileage numbers. "Not all athletes who are capable of the same performance have the same work capacity. There are several biological and psychological factors that determine work abilities.</p></article>]]></description>
+            <link>http://triathlete-europe.competitor.com/2016/07/05/what-is-your-perfect-run-mileage</link>
+            <guid isPermaLink="false">a6fdb9f8-590f-41bc-85ba-b4bb5027e1f5</guid>
+            <pubDate>Tue, 05 Jul 2016 15:48:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bike Climbing: Sit or Stand?]]></title>
@@ -68,13 +75,6 @@
             <link>http://tonrunner.uk/kent-roadrunners-marathon-2016/index.html</link>
             <guid isPermaLink="false">9eeca1c3-8aff-40e5-a66e-4217e905f3a5</guid>
             <pubDate>Mon, 30 May 2016 12:26:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Running Out of a Rut]]></title>
-            <description><![CDATA[<article><h1>Running Out of a Rut</h1><p>This documentary explores why people run. Stills, video and audio footage was collected at Tonbridge parkrun between Feb and May 2016. It was created as part of the Re-Think unit, Masters in Photojournalism and Documentary Photography at UAL, London College of Communication.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b123482c0f2be3ce2ecc70f9b0ad93031524db3.jpg"></article>]]></description>
-            <link>https://vimeo.com/168249343</link>
-            <guid isPermaLink="false">9ded332e-037f-4c51-a5c8-bf5cf5e2f888</guid>
-            <pubDate>Sun, 29 May 2016 07:10:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
