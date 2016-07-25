@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 13:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 14:24:44 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Mon, 25 Jul 2016 13:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One week has passed since I crossed the finish line of my first 100km race with these two hero's. ]]></title>
+            <description><![CDATA[<article><h1>One week has passed since I crossed the finish line of my first 100km race with these two hero's. </h1><p>Here we are, looking slightly rough, but happy, stunned and all still smiling at the end of our adventures. Armed with a speaker, some music and boundless enthusiasm and energy, we brought the PARTAY to the final 50km of Race To The Stones. For me these races are ALWAYS about people, meeting with and connecting with different people over that one common ground, and I'm so lucky I got to meet these guys and spend what I thought would be a lonely 50k making some connections and memories to last a lifetime. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1d1a41f9f891ffd39784e30e8d34ec66/croprotate.jpg?cropheight=490&cropwidth=640&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13732166_876869382457623_1413435312_n.jpg%3Fig_cache_key%3DMTMwMTA2MzExOTc3NDI3ODQyNw%253D%253D.2&x=0&y=76"></article>]]></description>
+            <link>https://www.instagram.com/p/BIOTgOcgeMb/</link>
+            <guid isPermaLink="false">51cbc0b0-2392-4d88-9319-e5c99b850994</guid>
+            <pubDate>Mon, 25 Jul 2016 14:24:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mobility Monday! Today we look at the almighty Squat! The squat is one of the most (if not the most) important shapes we should be comfortable in. ]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/TriSwimKent/status/739434220381212672</link>
             <guid isPermaLink="false">81605ee0-3cf5-4cd3-bd91-b54226aa0298</guid>
             <pubDate>Sun, 05 Jun 2016 15:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Very pleasant swim this evening with @TriSwimKent at Honnington Farm lake. Chilly on the outside, water was fine." src="https://pbs.twimg.com/media/Cj-Gt-MWkAAd5yC.jpg:large">]]></description>
-            <link>https://twitter.com/alester229/status/738457014309916673</link>
-            <guid isPermaLink="false">290e289d-3d4b-4d9d-af50-8a2f6d9ad50a</guid>
-            <pubDate>Fri, 03 Jun 2016 19:35:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
