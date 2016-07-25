@@ -1,21 +1,22 @@
 ---
+datePublished: '2016-07-25T13:55:03.863Z'
+sourcePath: _posts/2016-05-12-tonrunner.md
+inFeed: true
 authors: []
-dateModified: '2016-06-05T15:58:42.755Z'
-datePublished: '2016-06-05T15:58:43.197Z'
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-07-25T13:55:03.062Z'
+title: TonRunner
+publisher: {}
 description: >-
   This is my scrapbook of all things that interest, amuse, fascinate and inspire
   me in the world of swimming, cycling and running. I could have done it on
   facebook but all my friends and family are probably sick to death of my
   constant witterings and ramblings.
-hasPage: true
-inFeed: true
-inNav: true
-keywords: []
-title: TonRunner
-author: []
 inLanguage: null
-publisher: null
-sourcePath: _posts/2016-05-12-tonrunner.md
+inNav: true
 starred: true
 url: tonrunner/index.html
 _type: Article
