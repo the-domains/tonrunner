@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 21:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 21:13:34 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Mon, 25 Jul 2016 13:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is your perfect run mileage?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d1e3ee0-a9a8-49db-a89a-b054bf9dae4b.jpg">]]></description>
+            <link>http://triathlete-europe.competitor.com/2016/07/05/what-is-your-perfect-run-mileage</link>
+            <guid isPermaLink="false">a6fdb9f8-590f-41bc-85ba-b4bb5027e1f5</guid>
+            <pubDate>Mon, 25 Jul 2016 21:12:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are Your Hip Muscles Out Of Balance?]]></title>
@@ -47,13 +54,6 @@
             <link>http://triathlete-europe.competitor.com/2016/07/07/how-to-warm-up-for-a-long-course-triathlon</link>
             <guid isPermaLink="false">3bd12424-b725-4a83-ae0b-b0d5e4db78e3</guid>
             <pubDate>Wed, 13 Jul 2016 10:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is your perfect run mileage?]]></title>
-            <description><![CDATA[<article><h1>What is your perfect run mileage?</h1><p>Not all runners are created equal, and neither are their weekly mileage numbers. "Not all athletes who are capable of the same performance have the same work capacity. There are several biological and psychological factors that determine work abilities.</p></article>]]></description>
-            <link>http://triathlete-europe.competitor.com/2016/07/05/what-is-your-perfect-run-mileage</link>
-            <guid isPermaLink="false">a6fdb9f8-590f-41bc-85ba-b4bb5027e1f5</guid>
-            <pubDate>Tue, 05 Jul 2016 15:48:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bike Climbing: Sit or Stand?]]></title>
