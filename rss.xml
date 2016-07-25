@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 14:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 20:46:21 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Mon, 25 Jul 2016 13:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are Your Hip Muscles Out Of Balance?]]></title>
+            <description><![CDATA[<article><h1>Are Your Hip Muscles Out Of Balance?</h1><p>Most runners claim they have tight hamstrings. I see it all the time in the yoga classes I teach to athletes. But often, the problem is less in the hamstrings and more in the opposing muscle groups: the quadriceps and, more importantly, the hip flexors.</p></article>]]></description>
+            <link>http://triathlete-europe.competitor.com/2016/07/22/are-your-hip-muscles-out-of-balance</link>
+            <guid isPermaLink="false">b7a89a40-c0a7-43f7-8128-2bbe00d5c8c1</guid>
+            <pubDate>Mon, 25 Jul 2016 20:44:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One week has passed since I crossed the finish line of my first 100km race with these two hero's. ]]></title>
@@ -68,13 +75,6 @@
             <link>http://triathlete-europe.competitor.com/2016/06/08/ditch-the-long-slow-distance</link>
             <guid isPermaLink="false">a68c7a30-9624-48e7-86e2-e8aefa2300d2</guid>
             <pubDate>Thu, 09 Jun 2016 14:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Very impressed with @alester229 giving brilliant coaching advice and tips to his nervous friend. If you ever fancy a job Anthony...</p>]]></description>
-            <link>https://twitter.com/TriSwimKent/status/739434220381212672</link>
-            <guid isPermaLink="false">81605ee0-3cf5-4cd3-bd91-b54226aa0298</guid>
-            <pubDate>Sun, 05 Jun 2016 15:48:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
