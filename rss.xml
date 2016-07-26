@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 15:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 15:06:11 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Mon, 25 Jul 2016 13:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building Endurance]]></title>
+            <description><![CDATA[<article><h1>Building Endurance</h1><p>In the Bastion you have 2 hrs and 20 minutes to complete the swim leg followed by a further 10 minutes in the first transition to the bike. An average age group swimmer will generally complete the swim in 60-70 minutes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e2a22492d11cd2699daf9239ff450d5112842c5.jpg"></article>]]></description>
+            <link>http://tonrunner.uk/training-for-endurance-swims/index.html</link>
+            <guid isPermaLink="false">8b6f5b47-53ba-4f0e-880f-67413a0a332a</guid>
+            <pubDate>Tue, 26 Jul 2016 15:06:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kent Roadrunners Marathon 2016]]></title>
@@ -68,13 +75,6 @@
             <link>http://triathlete-europe.competitor.com/2016/07/07/how-to-warm-up-for-a-long-course-triathlon</link>
             <guid isPermaLink="false">3bd12424-b725-4a83-ae0b-b0d5e4db78e3</guid>
             <pubDate>Wed, 13 Jul 2016 10:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bike Climbing: Sit or Stand?]]></title>
-            <description><![CDATA[<article><h1>Bike Climbing: Sit or Stand?</h1><p>Unless you're Jan Ullrich, the oversized 1997 Tour de France champion from Germany, there are some hills, or at least some stretches of some hills, that all but demand you stand on the pedals to get up and over them.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed0c5c52c4a21787e5a9ad47697df828/noop.png?input=http%3A%2F%2Fcdn.triathlete-europe.competitor.com%2Ffiles%2F2014%2F07%2FScreen-shot-2014-07-20-at-22.25.03.png"></article>]]></description>
-            <link>http://triathlete-europe.competitor.com/2016/06/24/bike-climbing-sit-or-stand</link>
-            <guid isPermaLink="false">a08d5112-89c9-4245-b41e-ebe5fcacf741</guid>
-            <pubDate>Mon, 27 Jun 2016 12:09:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
