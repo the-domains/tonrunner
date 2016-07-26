@@ -28,6 +28,7 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation: []
 favicon: null
-title: 'Swim | Cycle | Run'
+title: Swim | Cycle | Run
 purpose: []
