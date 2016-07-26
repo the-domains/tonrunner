@@ -28,7 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation: []
+navigation:
+  - id: 9992db98-edef-4ff6-b121-dd52015e3fd2
+    name: 2016 Race Schedule
+    type: content
 favicon: null
 title: Swim | Cycle | Run
 purpose: []
