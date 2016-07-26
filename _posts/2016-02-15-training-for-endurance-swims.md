@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-26T15:06:08.893Z'
+datePublished: '2016-07-26T15:11:58.873Z'
 sourcePath: _posts/2016-02-15-training-for-endurance-swims.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-26T15:06:07.690Z'
+dateModified: '2016-07-26T15:11:58.099Z'
 title: Building Endurance
 publisher: {}
 description: >-
@@ -23,9 +23,9 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e2a22492d11cd2699daf9239ff450d5112842c5.jpg)
 
-In the Bastion you have 2 hrs and 20 minutes to complete the swim leg followed by a further 10 minutes in the first transition to the bike. An average age group swimmer will generally complete the swim in 60-70 minutes.
-
 ## Building Endurance
+
+In the Bastion you have 2 hrs and 20 minutes to complete the swim leg followed by a further 10 minutes in the first transition to the bike. An average age group swimmer will generally complete the swim in 60-70 minutes.
 
 _This session including warm up and cool down covers around 2400-2800m -- as the week's progress keep adding a 400m repetition to the main set as your endurance builds and see if you can build this to 8 x 400m over time._
 
@@ -33,7 +33,7 @@ If you can it is highly beneficial to find somewhere that can do a one to one vi
 
 Joining a group swim session will also give you an opportunity to get feedback from a coach on your technique, although as it is a group session they will have a limited amount of time they can focus solely on you but it is a good starting point to begin working on technique corrections.
 
-# Training for endurance swims
+## Training for endurance swims
 
 While the swim on any iron distance event is the shortest part of the race at 3.8km, the swim leg can often the biggest hurdle for a lot of competitors in any triathlon.
 
