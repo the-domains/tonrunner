@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 14:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 15:03:37 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Mon, 25 Jul 2016 13:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kent Roadrunners Marathon 2016]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c3efe42-8535-4ede-8349-8f5e22f342d8.jpg">]]></description>
+            <link>http://tonrunner.uk/kent-roadrunners-marathon-2016/index.html</link>
+            <guid isPermaLink="false">9eeca1c3-8aff-40e5-a66e-4217e905f3a5</guid>
+            <pubDate>Tue, 26 Jul 2016 15:02:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2016 Race Schedule]]></title>
@@ -68,13 +75,6 @@
             <link>http://triathlete-europe.competitor.com/2016/06/24/bike-climbing-sit-or-stand</link>
             <guid isPermaLink="false">a08d5112-89c9-4245-b41e-ebe5fcacf741</guid>
             <pubDate>Mon, 27 Jun 2016 12:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Honnington tonight is CANCELLED. Sorry for any inconvenience, but we don't fancy having any crispy-fried swimmers tonight!</p>]]></description>
-            <link>https://twitter.com/TriSwimKent/status/746022999925612544?s=09</link>
-            <guid isPermaLink="false">e3ab5c86-7c20-440b-8ba8-66759286d0ca</guid>
-            <pubDate>Thu, 23 Jun 2016 17:02:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
