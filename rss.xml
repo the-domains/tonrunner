@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 21:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 14:54:48 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Mon, 25 Jul 2016 13:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2016 Race Schedule]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/303aba09-f503-4e2f-9ceb-519fd091bc2b.jpg" alt="" title="">]]></description>
+            <link>http://tonrunner.uk/2016-race-list/index.html</link>
+            <guid isPermaLink="false">9992db98-edef-4ff6-b121-dd52015e3fd2</guid>
+            <pubDate>Tue, 26 Jul 2016 14:54:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is your perfect run mileage?]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/TriSwimKent/status/746022999925612544?s=09</link>
             <guid isPermaLink="false">e3ab5c86-7c20-440b-8ba8-66759286d0ca</guid>
             <pubDate>Thu, 23 Jun 2016 17:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ditch The Long, Slow Distance]]></title>
-            <description><![CDATA[<article><h1>Ditch The Long, Slow Distance</h1><p>Times, they are a changin', and the traditional marathoner mentality that long, slow distance gets the job done is becoming a thing of the past. If you've completed a few marathons and want to run faster, running long, hard runs could be a key training stimulus for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/745bd446481be2591e6d00d20ef15b9cbf2c4d58.png"></article>]]></description>
-            <link>http://triathlete-europe.competitor.com/2016/06/08/ditch-the-long-slow-distance</link>
-            <guid isPermaLink="false">a68c7a30-9624-48e7-86e2-e8aefa2300d2</guid>
-            <pubDate>Thu, 09 Jun 2016 14:14:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
