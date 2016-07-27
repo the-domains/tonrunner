@@ -32,6 +32,9 @@ navigation:
   - id: 9992db98-edef-4ff6-b121-dd52015e3fd2
     name: 2016 Race Schedule
     type: content
+  - url: 'https://twitter.com/alester229'
+    name: Twitter
+    type: external
 favicon: null
 title: Swim | Cycle | Run
 purpose: []
