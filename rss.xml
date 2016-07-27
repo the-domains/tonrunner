@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 15:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 15:06:02 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Mon, 25 Jul 2016 13:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2016 Race Schedule]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/303aba09-f503-4e2f-9ceb-519fd091bc2b.jpg" alt="" title="">]]></description>
+            <link>http://tonrunner.uk/2016-race-list/index.html</link>
+            <guid isPermaLink="false">9992db98-edef-4ff6-b121-dd52015e3fd2</guid>
+            <pubDate>Wed, 27 Jul 2016 15:05:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Building Endurance]]></title>
@@ -26,13 +33,6 @@
             <link>http://tonrunner.uk/kent-roadrunners-marathon-2016/index.html</link>
             <guid isPermaLink="false">9eeca1c3-8aff-40e5-a66e-4217e905f3a5</guid>
             <pubDate>Tue, 26 Jul 2016 15:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016 Race Schedule]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/303aba09-f503-4e2f-9ceb-519fd091bc2b.jpg" alt="" title="">]]></description>
-            <link>http://tonrunner.uk/2016-race-list/index.html</link>
-            <guid isPermaLink="false">9992db98-edef-4ff6-b121-dd52015e3fd2</guid>
-            <pubDate>Tue, 26 Jul 2016 14:54:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is your perfect run mileage?]]></title>
