@@ -35,9 +35,6 @@ navigation:
   - url: 'https://twitter.com/alester229'
     name: Twitter
     type: external
-  - url: 'https://www.facebook.com/Anthony.J.Lester'
-    name: Facebook
-    type: external
 favicon: null
 title: Swim | Cycle | Run
 purpose: []
