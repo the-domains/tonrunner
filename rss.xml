@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 18:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 10:45:51 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Mon, 25 Jul 2016 13:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The power of the mind]]></title>
+            <description><![CDATA[<article><h1>The power of the mind</h1><p>I am a great believer that what's going on in your mind can totally change how you feel and see things on a minute by minute or long term basis. It's so easy to see positives in every outcome but why do so many of us, me included at times, choose to dwell on the negatives?!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/078d0ae3b6eb052aeaefce8f3e7b3818/noop.jpg?input=http%3A%2F%2Fwww.castletriathlonseries.co.uk%2Fwp-content%2Fuploads%2F2016%2F04%2FCastleHowardSUN_0120.jpg"></article>]]></description>
+            <link>http://www.castletriathlonseries.co.uk/news/the-power-of-the-mind/?utm_source=Castle+Triathlon+Series&amp;utm_campaign=9bbaf0b4a8-April_Newsletter3_29_2014&amp;utm_medium=email&amp;utm_term=0_90bfd156a3-9bbaf0b4a8-249803125&amp;ct=t(April_Newsletter3_29_2014)</link>
+            <guid isPermaLink="false">f2b20abe-fb9f-4c62-9dab-478bf722c1dd</guid>
+            <pubDate>Tue, 02 Aug 2016 10:45:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BGU-6_WEPKh/</link>
             <guid isPermaLink="false">5ab0f31a-b60a-4da9-802a-6071e9e3edb9</guid>
             <pubDate>Mon, 25 Jul 2016 13:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding my training zones?]]></title>
-            <description><![CDATA[<article><h1>Understanding my training zones?</h1><p>Have you ever left the front door not sure how fast to run? You may have a training plan, but just how hard is an easy run and how should your threshold or interval training feel? Our coaching partners Running With Us explain the different effort levels and what these should feel like.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe6ae92d77b21c07e282eafc4e8a70a6/noop.jpg?input=http%3A%2F%2Fhighfive.co.uk%2F2015%2Fwp-content%2Fuploads%2F2016%2F07%2FIMG_3129cropped-1024x551.jpg"></article>]]></description>
-            <link>http://highfive.co.uk/news/my-training-zones</link>
-            <guid isPermaLink="false">eebf8869-581e-41db-86c4-5b46d20102b8</guid>
-            <pubDate>Wed, 13 Jul 2016 10:26:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
