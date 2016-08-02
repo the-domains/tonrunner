@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 10:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 10:46:39 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Mon, 25 Jul 2016 13:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beginners Guide to SwimRun]]></title>
+            <description><![CDATA[<article><h1>Beginners Guide to SwimRun</h1><p>Starting out in any new sport can seem a bit daunting so here are a few little pointers to get you into SwimRun with a splash! What is SwimRun? SwimRun is an endurance sport in which you run and swim along a set course of cross country/trail runs and open water swims without stopping in ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9adf994e1ae306b0780300307344b4c8/croprotate.png?cropheight=472&cropwidth=1134&degrees=0&input=http%3A%2F%2Floveswimrun.co.uk%2Fwp-content%2Fuploads%2F2016%2F04%2Fbeginners-swimrun-guide.png&x=0&y=0"></article>]]></description>
+            <link>http://loveswimrun.co.uk/beginners-guide-to-swimrun/</link>
+            <guid isPermaLink="false">0c5e266a-f34a-45f1-9d28-232297cd78c2</guid>
+            <pubDate>Tue, 02 Aug 2016 10:45:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The power of the mind]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BIOTgOcgeMb/</link>
             <guid isPermaLink="false">51cbc0b0-2392-4d88-9319-e5c99b850994</guid>
             <pubDate>Mon, 25 Jul 2016 14:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mobility Monday! Today we look at the almighty Squat! The squat is one of the most (if not the most) important shapes we should be comfortable in. ]]></title>
-            <description><![CDATA[<article><h1>Mobility Monday! Today we look at the almighty Squat! The squat is one of the most (if not the most) important shapes we should be comfortable in. </h1><p>Strength training aside, the squat is one of the best ways to see if our joints can perform normally. Specifically, we should be able to express all of the following: * Full hip flexion (closing of the hip). You can see this if you are able to get your pockets below your knees. A limit in hip flexion can also manifest with knees caving inwards during the squat (motor control and strength aside). * Maintenance of a neutral spine. Can you maintain the natural lumbar curve in your back when deep in your squat? If not there's a good chance your hips are tight! * Heel stays grounded. If the only way you can achieve full depth is by letting your heels leave the ground, we could be looking at some real stiff ankles. Faults in the above points will typically manifest near end-range in the joint, which in the squat, shows up as we get deeper and deeper. So, how deep can you squat with all those points of performance? Challenge: Can you hold a squat for 2 minutes? 5 minutes? Give it a go once a day and see if you can improve this over a one week span! Happy Monday! #MobilityMonday #TheRunExperience #PositionIsPower #Mobility #RunStrong</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fc643742a7e3bf5fb00517ec771c5ae54a2c9ac.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BGU-6_WEPKh/</link>
-            <guid isPermaLink="false">5ab0f31a-b60a-4da9-802a-6071e9e3edb9</guid>
-            <pubDate>Mon, 25 Jul 2016 13:59:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
