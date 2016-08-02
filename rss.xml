@@ -4,7 +4,7 @@
         <description><![CDATA[Swim | Cycle | Run]]></description>
         <link>http://tonrunner.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 10:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 10:46:40 GMT</lastBuildDate>
         <atom:link href="http://tonrunner.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TonRunner]]></title>
@@ -12,6 +12,13 @@
             <link>http://tonrunner.uk/tonrunner/index.html</link>
             <guid isPermaLink="false">73f11dc5-ffbf-4a07-bf9d-8c97e3c17356</guid>
             <pubDate>Mon, 25 Jul 2016 13:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swimrun: your next challenge?]]></title>
+            <description><![CDATA[<article><h1>Swimrun: your next challenge?</h1><p>If you haven't yet heard of swimrun, you are about to. The Swedish endurance sport has hit the UK big time this summer. What started as a drunken bet in Sweden just over a decade ago is now the latest international endurance sport phenomenon.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f69102911790c857108584dcb7bc207e/croprotate.jpg?cropheight=3116&cropwidth=2409&degrees=0&input=http%3A%2F%2Fh2openmagazine.com%2Fassets%2Fmag-cover%2FIssue-36-Aug-Sept-16.jpg&x=0&y=3"></article>]]></description>
+            <link>http://h2openmagazine.com/blogs/swimrun-your-next-challenge</link>
+            <guid isPermaLink="false">5b09f3ce-8e2e-4560-ab06-890b0b1fd737</guid>
+            <pubDate>Tue, 02 Aug 2016 10:46:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beginners Guide to SwimRun]]></title>
@@ -68,13 +75,6 @@
             <link>http://triathlete-europe.competitor.com/2016/07/22/are-your-hip-muscles-out-of-balance</link>
             <guid isPermaLink="false">5dd258d4-423c-4915-b73e-227d6503cd07</guid>
             <pubDate>Mon, 25 Jul 2016 21:06:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One week has passed since I crossed the finish line of my first 100km race with these two hero's. ]]></title>
-            <description><![CDATA[<article><h1>One week has passed since I crossed the finish line of my first 100km race with these two hero's. </h1><p>Here we are, looking slightly rough, but happy, stunned and all still smiling at the end of our adventures. Armed with a speaker, some music and boundless enthusiasm and energy, we brought the PARTAY to the final 50km of Race To The Stones. For me these races are ALWAYS about people, meeting with and connecting with different people over that one common ground, and I'm so lucky I got to meet these guys and spend what I thought would be a lonely 50k making some connections and memories to last a lifetime. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1d1a41f9f891ffd39784e30e8d34ec66/croprotate.jpg?cropheight=490&cropwidth=640&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F13732166_876869382457623_1413435312_n.jpg%3Fig_cache_key%3DMTMwMTA2MzExOTc3NDI3ODQyNw%253D%253D.2&x=0&y=76"></article>]]></description>
-            <link>https://www.instagram.com/p/BIOTgOcgeMb/</link>
-            <guid isPermaLink="false">51cbc0b0-2392-4d88-9319-e5c99b850994</guid>
-            <pubDate>Mon, 25 Jul 2016 14:24:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
